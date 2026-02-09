@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/playable-characters/constantine/"}
 
 ---
 
@@ -123,7 +122,6 @@ I wouldn’t say Constantine particularly enjoys being a part of the main story.
 # Gameplay 
 
 
-![IMG_4377.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_4377.png)
 
 
 **Signature Ability**: *Technician*
@@ -170,17 +168,11 @@ I wouldn’t say Constantine particularly enjoys being a part of the main story.
 
 
 **ULTIMATE**
-![IMG_6349.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_6349.png)
 
-![IMG_6904.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_6904.jpeg)
 
-![IMG_9770.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_9770.jpeg)
 
-![IMG_1522.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_1522.png)
 
-![Untitled70_20241006223308.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/Untitled70_20241006223308.png)
 
-![Untitled70_20241006224258.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/Untitled70_20241006224258.png)
 
 “Patch notes” 
 

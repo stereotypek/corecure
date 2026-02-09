@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/playable-characters/gamma/"}
 
 ---
 
@@ -83,7 +82,6 @@ Gamma’s been working peacefully with [Rita](../NPCs/Various NPCs/Rita.md), [Mo
 **Role**: Glass cannon.
 > Essentially, character that can deal a lot of destruction, but is highly vulnerable to attacks. Hence a “cannon”, because they're so powerful, and “glass” because they're fragile, if struck. Gamma’s fast to make up for it— fast enough to outrun her enemies— if you know how to use her correctly.
 
-![IMG_4378.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_4378.png)
 
 **Signature Ability**: SuperSonix
 > 	She can dash through enemies and projectiles without taking damage (basically she evades attack when dashing) BUT it has a 3 second cooldown. she will also damage anything within the radius of her dash.`
@@ -129,9 +127,7 @@ Gamma’s been working peacefully with [Rita](../NPCs/Various NPCs/Rita.md), [Mo
 
 *poor video example*![[RPReplay_Final1730756765.mp4]]
 
-![Untitled390_20240426211341.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/Untitled390_20240426211341.png)
 
-![Untitled335_20240306142453.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/Untitled335_20240306142453.png)![IMG_1635.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_1635.png)![IMG_5291.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_5291.jpeg)![IMG_3887.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_3887.jpeg)![IMG_2521.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2521.jpeg)![IMG_4395.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_4395.jpeg)![IMG_2526.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2526.jpeg)![IMG_3072.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_3072.png)
 
 “Patch notes”
 

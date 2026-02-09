@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/playable-characters/nea/"}
 
 ---
 
@@ -156,7 +155,6 @@ Role: Classic all rounder, self-sustainer
 
 > 	While she has a pretty heavy lean into magic attacks, she’s quite slow compared to others. She’s a mid-ranged attacker who can dish out all kinds of attacks and heal herself. She’s more of a jack of all trades (with a heavy lean into her special attacks).
 
-![IMG_4383.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_4383.png)
 
 
 **Signature Ability**: RHYTHMIC DISSONANCE
@@ -199,11 +197,8 @@ Extended Ability: Counterpoint!
 
 
 
-![Untitled252_20240428194722.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/Untitled252_20240428194722.png)
 
-![IMG_2522.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2522.jpeg)
 
-![IMG_4759.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_4759.jpeg)
 
  ”patch notes”:
 

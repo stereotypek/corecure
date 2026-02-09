@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/bits/true-index/"}
 
 ---
 
@@ -20,7 +19,7 @@ Characters:
 
 [Constantine](../Characters/Playable Characters/Constantine.md)
 
-[SPACE MONKEY](Story/SPACE MONKEY.md)
+
 
 NPCS
 
@@ -93,7 +92,6 @@ Honeys arc
 
 LORE
 
-[LORE](Story/LORE.md)
 
 [General Worldbuilding](Worldbuilding/General Worldbuilding.md)
 
@@ -106,8 +104,6 @@ LORE
 [Reading](../Locations/Reading.md)
 
 [Hà-Binh](../Locations/Hà-Binh.md)
-
-[LORE](Story/LORE.md)
 
 [THE LASER](Story/THE LASER.md)
 

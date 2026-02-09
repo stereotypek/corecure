@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/bosses/07-angel/"}
 
 ---
 
@@ -7,7 +6,7 @@
 
 As of right now, she is the ringleader of the [Arena](../../Bits/Game Mechanics/Arena.md) and such the final boss in it.
 
-Also just so happens to be a [fixer](../NPCs/Functional NPCS/Fixers.md) simply because of her establishment and also because, sometimes you can’t get all of the work done yourself. She’s very unreliable, but pays a lot for difficult jobs.
+Also just so happens to be a fixer simply because of her establishment and also because, sometimes you can’t get all of the work done yourself. She’s very unreliable, but pays a lot for difficult jobs.
 
 ## Personality
 
@@ -37,4 +36,3 @@ She fights with four small, pink daggers which she controls at her will. At the 
 
 Like [Gamma](../Playable Characters/Gamma.md), she’s hideously fast, but not *as* fast. She also has a great deal more magic and range than Gamma does, and certainly has the potential to win in a match against [Honeycakes](../Playable Characters/Honeycakes.md), if she didn’t admire her so much.
 
-![IMG_4097.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_4097.jpeg)

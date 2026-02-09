@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/playable-characters/honeycakes/"}
 
 ---
 
@@ -179,7 +178,6 @@ What a shame, for who else to show up at her front door, 5 years later, but the 
 
 # Gameplay 
 
-![IMG_4382.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_4382.png)
 
 
 **Signature Ability**: Aloof

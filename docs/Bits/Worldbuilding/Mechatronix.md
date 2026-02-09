@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/bits/worldbuilding/mechatronix/"}
 
 ---
 
@@ -108,7 +107,6 @@ The game is supposed to be this open world. and you’re supposed to be able to 
 
 This needs to be updated
 
-![IMG_3827.jpeg](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_3827.jpeg)
 
 # Gear
 

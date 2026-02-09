@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/np-cs/various-np-cs/kit/"}
 
 ---
 
@@ -32,4 +31,3 @@ Her thoughts on:
 
 
 
-![IMG_9101.jpeg](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_9101.jpeg)

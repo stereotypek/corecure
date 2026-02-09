@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/np-cs/various-np-cs/coda/"}
 
 ---
 
@@ -45,4 +44,3 @@ Nea doesnt have much real resentment towards Coda. it was weird for her to not b
 
 
 
-![IMG_3986.png](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_3986.png)

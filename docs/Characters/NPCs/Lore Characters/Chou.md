@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/np-cs/lore-characters/chou/"}
 
 ---
 
@@ -41,4 +40,3 @@ Her eye was stolen by [Mutilation](../../Bosses/Mutilation.md).
 
 ## Misc
 
-![IMG_2684.png](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2684.png)

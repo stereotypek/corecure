@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/np-cs/various-np-cs/adam/"}
 
 ---
 
@@ -30,6 +29,4 @@ he has the jaw of a panda and can chew through almost anything. he also doesnt m
 
 [Dinh](Dinh.md): stuck up princess. But, we’re on the same page sometimes. 
 
-![IMG_9092.png](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_9092.png)
 
-![IMG_9102.jpeg](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_9102.jpeg)

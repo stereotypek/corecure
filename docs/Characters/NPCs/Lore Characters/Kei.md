@@ -2,9 +2,9 @@
 
 ---
 
-The red one
 
-"Character Quote"
+An empty, blank file...
+
 
 ## Personality 
 

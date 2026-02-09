@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/bits/story/the-story-so-far/"}
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/characters/bosses/mutilation/"}
 
 ---
 
@@ -234,4 +233,3 @@ Honey: well, look. She’s alive, isn’t she? And she killed Mutilation.
 
 Honey: don’t worry. You both can keep 10 thousand D each. I already counted our shares. Han! Load up the cart, we’re going to Ritas!
 
-![IMG_5986.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_5986.png)

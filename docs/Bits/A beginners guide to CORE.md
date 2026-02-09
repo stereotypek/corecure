@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/bits/a-beginners-guide-to-core/","tags":["gardenEntry"]}
 
 ---
 

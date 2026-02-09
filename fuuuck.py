@@ -1,52 +1,33 @@
 ﻿import os
+import re
 
 DOCS_ROOT = "docs"
 
-def process_file(path):
-    with open(path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+# Pattern to detect any Markdown image link ![alt](path)
+image_pattern = re.compile(r'!\[.*?\]\(.*?\)')
 
-    new_lines = []
-    in_code_block = False
+# Pattern to detect the dg-publish JSON metadata
+dg_publish_pattern = re.compile(r'\{"dg-publish".*?\}')
 
-    for i, line in enumerate(lines):
-        stripped = line.rstrip()
-
-        # Detect code block start/end
-        if stripped.startswith("```"):
-            in_code_block = not in_code_block
-            new_lines.append(line)
-            continue
-
-        # Don't modify lines inside code blocks
-        if in_code_block:
-            new_lines.append(line)
-            continue
-
-        # Preserve list items (starting with - , *, or numbers)
-        if stripped.startswith(("-", "*")) or stripped[:2].isdigit() and stripped[2] == ".":
-            new_lines.append(line)
-            continue
-
-        # Add an empty line after a non-empty line
-        if stripped != "":
-            new_lines.append(line)
-            # Only add a blank line if the next line isn't already blank
-            if i + 1 < len(lines) and lines[i + 1].strip() != "":
-                new_lines.append("\n")
-        else:
-            # Already a blank line
-            new_lines.append(line)
-
-    with open(path, "w", encoding="utf-8") as f:
-        f.writelines(new_lines)
-
-    print(f"Processed: {path}")
-
-# Walk all Markdown files
 for root, _, files in os.walk(DOCS_ROOT):
     for file in files:
         if file.endswith(".md"):
-            process_file(os.path.join(root, file))
+            path = os.path.join(root, file)
+            with open(path, "r", encoding="utf-8") as f:
+                lines = f.readlines()
 
-print("All Markdown files processed. Empty lines added between paragraphs.")
+            new_lines = []
+            for line in lines:
+                stripped = line.strip()
+                # Remove line if it contains an image link
+                if image_pattern.search(stripped):
+                    continue
+                # Remove line if it contains dg-publish metadata
+                if dg_publish_pattern.search(stripped):
+                    continue
+                new_lines.append(line)
+
+            with open(path, "w", encoding="utf-8") as f:
+                f.writelines(new_lines)
+
+print("All Markdown image lines and dg-publish metadata removed.")

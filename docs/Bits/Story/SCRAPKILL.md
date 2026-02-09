@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cg-oei-re/bits/story/scrapkill/"}
 
 ---
 
@@ -85,11 +84,8 @@ Fight here
 
 ---
 
-![IMG_5518.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_5518.png)
 
-![Untitled84_20241219214626.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/Untitled84_20241219214626.png)
 
-![IMG_8927.png](../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_8927.png)
 
 [Omega](../../Characters/NPCs/Various NPCs/Omega.md):  
 
