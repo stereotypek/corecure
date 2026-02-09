@@ -1,5 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/cg-oei-re/bits/worldbuilding/early-history/"}
+
 ---
 
 
@@ -22,7 +23,9 @@ The rapture had begun.
 Angels crashed and burned, volcanoes erupted and the Earth trembled in it’s wake, bringing with it a cold and bitter wind. Historians estimate that 75% of the world was entirely wiped.
 
 > 	`As the dust clears, a pulsating, white CORE rest in a small mount of cotton. The PRODIGAL CORE was rumored to be the Core of Life, the Heart of God. It’s the ultimate mothers womb, it has the ability to breathe the breath of life into any creature given to it.`
+
 > 	`There was a small girl inside of it.`
+
 >     `Her name was Kei.`
 
 The last living ruler of Beau’s ancestral line, Adonis, kept everything under a tight fist. The hierarchical system was worse than ever, with the divide from rich and poor growing ever larger.
@@ -36,11 +39,17 @@ She rebuilt society entirely, for a short while. She used her knowledge and empa
 Everything seemed fine.
 
 And then Pyrrhon actually realized what being ruler meant.
+
 > 
+
 > 	`Everything has since been stuffed under the rug.`  
+
 > 	`With each disease cured, came millions of dead bodies.`
+
 > 	`With each city liberated, came another pointless regulation.`
+
 >     `Pyrrhon killed her parents and used her money to sneak it under the rug.`  
+
 >     `To her partners which had found it unethical, she killed them too.`  
 
 With that, she began conquering the other small countries around her which established sovereignty upon her beginning.

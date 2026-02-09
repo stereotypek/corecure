@@ -1,51 +1,70 @@
 ---
 {"dg-publish":true,"permalink":"/cg-oei-re/bits/game-mechanics/unsure-mechanics/"}
+
 ---
 
 
 *These are the mechanics that I am still unsure whether to add or not.*
 
   # Buffs and Debuffs
+
 ### Buffs
+
 Awaken
+
 	`Base attack + 5% for 5 sec (stackable, but removed when the timer runs out), and regenerate a small amount of health passively.`
 
 Enrage
+
 	`Guaranteed crit for the next 3 hits (stackable)`
 
 Regeneration
+
 	`Regenerate 1% health for five seconds. Stackable up to 5% per second.`
+
 Armor
+
 	`Physical damage taken is reduced by 25%. Unstackable and caps out at five seconds.`
 
 Infusion
+
 	`The next hit is guaranteed to have a magic sting to it. Can be activated by magic characters.`
 
 ### Debuffs
 
 
 Bleed
+
 	`Lose 1% health per second for 3 seconds. Stackable up to 3%. Every time you dash, you lose an extra 1%.`
 
 Stun
+
 	`Self-explanatory. Stun will last for 1.75 seconds.`
 
 Tire
+
 	`It slows the character down, and you cannot gain anything during its infliction period.`
 
 Smog
+
 	`Accuracy down -75%`
 	
 Silence
+
 	`Magical Stun, unable to use magic for a period of time (15% of an attackers MG points)`
 
 ### Special Events
+
  Ravenous
+
 	 `x`
+
 Ventriloquist
+
 	`All damage is increased by 1/2, but you dont take it— your teammate does! They will not be really happy about it.`
 
 Sugar High
+
 	`Character has an unlimited amount of MP for a period of time, does not gain AD during this time. They will also receive a -50% remaining HP debuff when it stops.`
 
 
@@ -90,6 +109,7 @@ the more debuffs, the better the buff.
 1 2 3 4 5 6 7 8
 
 Base Stat
+
 	No buffs or debuffs.
 	
 
@@ -123,6 +143,7 @@ Base Stat
 1 2 3 ***4***# 5 6 7 8
 
 +MGATK
+
 	`*Boosts the power of all of your magic attacks, but they consume more stamina.*`
 
   

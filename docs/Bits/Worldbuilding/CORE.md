@@ -1,10 +1,11 @@
 ---
 {"dg-publish":true,"permalink":"/cg-oei-re/bits/worldbuilding/core/"}
+
 ---
 
 
 
-A CORE is something that a national guardian has. There’s a rumor that [Pyrrhon](/Characters/Bosses/Pyrrhon.md) injured God and made the cores out of some of what she cut off of him. 
+A CORE is something that a national guardian has. There’s a rumor that [Pyrrhon](../../Characters/Bosses/Pyrrhon.md) injured God and made the cores out of some of what she cut off of him. 
 
 A CORE can be re used once a national guardian dies and placed into another, but what is it?
 
@@ -24,13 +25,21 @@ The CORE takes away your soul. Whether it be involuntarily inserted, your CORE i
 It’s essentially:
 
 >someone dies
+
 >take their CORE
+
 >Obtain a portion of their power
+
 >that person dies
+
 >take their CORE
+
 >Obtain a portion of their power
+
 >that person dies
+
 >take their CORE
+
 >Obtain a portion of their power
 
 And so on.

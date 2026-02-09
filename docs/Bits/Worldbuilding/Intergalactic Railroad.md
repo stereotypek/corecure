@@ -1,8 +1,10 @@
 ---
 {"dg-publish":true,"permalink":"/cg-oei-re/bits/worldbuilding/intergalactic-railroad/"}
+
 ---
 
 OUTDATED 
+
 - Contrary to its name, it is not intergalactic.
 - IGR is a small railway which travels over No Man’s Land and into 1 of the four living areas. Each train station includes:
 - A chain bar system called the “Slaughterhouse”, but it works more like a pub.

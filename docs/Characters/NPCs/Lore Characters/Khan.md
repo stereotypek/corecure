@@ -1,5 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/cg-oei-re/characters/np-cs/lore-characters/khan/"}
+
 ---
 
 
@@ -46,8 +47,12 @@ And all he once knew was now obsolete in the face of God Himself.
 
 ---
 
-![IMG_2513 1.png](/img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2513%201.png)
-![IMG_2514 1.png](/img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2514%201.png)
-![IMG_6610 1.jpeg](/img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_6610%201.jpeg)
-![IMG_7866.png](/img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_7866.png)
-![IMG_7867.png](/img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_7867.png)
+![IMG_2513 1.png](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2513%201.png)
+
+![IMG_2514 1.png](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_2514%201.png)
+
+![IMG_6610 1.jpeg](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_6610%201.jpeg)
+
+![IMG_7866.png](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_7866.png)
+
+![IMG_7867.png](../../../img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_7867.png)

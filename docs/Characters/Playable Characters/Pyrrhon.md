@@ -1,1 +1,1 @@
-If you're seeing this, it means that this was an incorrectly linked Pyrrhon page. She is intended to be soemwhere [here](/Characters/Bosses/Pyrrhon.md)
+If you're seeing this, it means that this was an incorrectly linked Pyrrhon page. She is intended to be soemwhere [here](../Bosses/Pyrrhon.md)
