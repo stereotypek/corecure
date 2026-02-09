@@ -2,6 +2,9 @@
 
 We've been updated!
 
+2/9/26: newlines fixed, broken links fixed, images fixed, etc.
+Some links remain broken... but that's okay, isn't it?
+
 --- 
 God is dead.
 
