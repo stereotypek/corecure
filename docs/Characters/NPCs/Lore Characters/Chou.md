@@ -14,12 +14,12 @@ Chou’s a bit like [Constantine](/Characters/Playable Characters/Constantine.md
 ## Backstory
 Chou was originally some nobody worker working with a high up corporation, working late nights to barely sustain herself. Five years at school, for this..? 
 She works as a normal secretary, underpaid and overworked, like Isabelle from Animal Crossing. She’s always stressed out and paranoid, jumpy and spends most of her time cowering in fear from her bosses.
-On one unfortunate night, [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) and [Khan](/Characters/NPCs/Lore Characters/Khan.md) raided the place under [Pyrrhon](/Characters/Bosses/Pyrrhon.md)’s orders. That corporation was hiding some unfortunate information, and they needed everyone dead.
-That was, until, [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md)’s phone beeped. 
+On one unfortunate night, [Marian](/Characters/NPCs/Lore Characters/Marian.md) and [Khan](/Characters/NPCs/Lore Characters/Khan.md) raided the place under [Pyrrhon](/Characters/Bosses/Pyrrhon.md)’s orders. That corporation was hiding some unfortunate information, and they needed everyone dead.
+That was, until, [Marian](/Characters/NPCs/Lore Characters/Marian.md)’s phone beeped. 
 A perfect genetic being..?
 They took Chou away under the guise of ‘medical help’ to have her get testing. She was the perfect genetic being.
 Too scared to resist, she was taken under and forced to reproduce eggs and undergo testing that borderlines on torture. 
-She befriended both [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) and [Khan](/Characters/NPCs/Lore Characters/Khan.md). [Khan](/Characters/NPCs/Lore Characters/Khan.md), because Chou reminded him of his sister. [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md), because, during the second half of the Prequel Arc, and he felt pity for her. Khan had completely neglected her and she felt quite sad. I really don’t have much to say about her, im going to be real.
+She befriended both [Marian](/Characters/NPCs/Lore Characters/Marian.md) and [Khan](/Characters/NPCs/Lore Characters/Khan.md). [Khan](/Characters/NPCs/Lore Characters/Khan.md), because Chou reminded him of his sister. [Marian](/Characters/NPCs/Lore Characters/Marian.md), because, during the second half of the Prequel Arc, and he felt pity for her. Khan had completely neglected her and she felt quite sad. I really don’t have much to say about her, im going to be real.
 
 Her eye was stolen by [Mutilation](/Characters/Bosses/Mutilation.md). 
 

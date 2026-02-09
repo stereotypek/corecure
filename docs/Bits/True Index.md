@@ -6,7 +6,6 @@
 Hey there! Welcome to my Wiki. 
 As you can see, most of it remains unfinished. I’ll format this all.. eventually, but for now, please enjoy my garden of dead links and unbudded flowers.
 Also— not all of the pages are here since I forget to add them and there’s way too many to keep track of. I am doing my best though!
-[New](New.md)
 Characters:
 [Gamma](/Characters/Playable Characters/Gamma.md)
 [Honeycakes](/Characters/Playable Characters/Honeycakes.md) | [Omega](/Characters/NPCs/Various NPCs/Omega.md)
@@ -30,7 +29,7 @@ NPCS
 [Clementine](/Characters/NPCs/Functional NPCs/Clementine.md)
 
 Prequel
-[/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md)
+[Marian](/Characters/NPCs/Lore Characters/Marian.md)
 [Khan](/Characters/NPCs/Lore Characters/Khan.md)
 [Chou](/Characters/NPCs/Lore Characters/Chou.md)
 [/Characters/NPCs/Lore Characters/Dinh](/Characters/NPCs/Lore Characters/Dinh.md)

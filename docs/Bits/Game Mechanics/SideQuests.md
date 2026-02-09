@@ -38,7 +38,7 @@ Sidequest
 “A sex change? Well, not to worry. I don’t care. Science can do many things, including me. Hahahah.”
 “I brought what you wanted.”(H)
 “Hm?”
-“[/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md)’s daughter. The lover of… your lover.”(H)
+“[Marian](/Characters/NPCs/Lore Characters/Marian.md)’s daughter. The lover of… your lover.”(H)
 “wh-what?!”(G)
 “Wheel her in.” (H)
 “That-.. wasn’t part of our plan!” (G)
@@ -90,13 +90,13 @@ Herod sinks its teeth into [Nea](/Characters/Playable Characters/Nea.md)’s sho
 Mutilation pins down [Nea](/Characters/Playable Characters/Nea.md) as she groggily begins to wake up and gets really freaky.
 
 “I know ou. I know you! I KNOW YOU!!! I KNOW YUOU!!! Mother , youre my father my father my father MY FAHTER!! YOURE MY FAHTER.. “
-She thinks that [Marian](/Characters/NPCs/Lore Characters/Marian.md) is her father, and since it’s [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md)’s CORE..
-[/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) isn’t her father, she was just Pyrrhon’s ‘’lover’’
+She thinks that [Marian](/Characters/NPCs/Lore Characters/Marian.md) is her father, and since it’s [Marian](/Characters/NPCs/Lore Characters/Marian.md)’s CORE..
+[Marian](/Characters/NPCs/Lore Characters/Marian.md) isn’t her father, she was just Pyrrhon’s ‘’lover’’
 Anyway the vicinity between Mutilation and [Marian](/Characters/NPCs/Lore Characters/Marian.md)’s CORE kinda fucks things up and [Nea](/Characters/Playable Characters/Nea.md) goes into a deep, deep digital flashback. so does Mutilation
 It lasts a second for [Gamma](/Characters/Playable Characters/Gamma.md) and [Honeycakes](/Characters/Playable Characters/Honeycakes.md).
 
-But in there, [Nea](/Characters/Playable Characters/Nea.md) basically is attacked by [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) ([mutilation](/Characters/Bosses/Mutilation.md)). She stabs him, and [Mutilation](/Characters/Bosses/Mutilation.md) says, “you’ve done so well..”
-She gets flashbacks to when [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) offered her his CORE. The sensation is so intense that it disrupts the connection and backfires on [Mutilation](/Characters/Bosses/Mutilation.md), killing her instnatly. 
+But in there, [Nea](/Characters/Playable Characters/Nea.md) basically is attacked by [Marian](/Characters/NPCs/Lore Characters/Marian.md) ([mutilation](/Characters/Bosses/Mutilation.md)). She stabs him, and [Mutilation](/Characters/Bosses/Mutilation.md) says, “you’ve done so well..”
+She gets flashbacks to when [Marian](/Characters/NPCs/Lore Characters/Marian.md) offered her his CORE. The sensation is so intense that it disrupts the connection and backfires on [Mutilation](/Characters/Bosses/Mutilation.md), killing her instnatly. 
 [Nea](/Characters/Playable Characters/Nea.md) wakes up seeing Honey hanging up [Mutilation](/Characters/Bosses/Mutilation.md) like a slab of meat and sifting through the organs she wants to keep. She has Han cool them for her in a portable cooler.
 [Gamma](/Characters/Playable Characters/Gamma.md) is mostly making sure [Nea](/Characters/Playable Characters/Nea.md) is okay
 [Honeycakes](/Characters/Playable Characters/Honeycakes.md): … Alright. That’s about 10k Danari.

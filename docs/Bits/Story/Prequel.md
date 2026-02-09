@@ -4,7 +4,7 @@
 
 ADDITIONAL CONTEXT IS PROVIDED IN THE DEV NOTES. 
 The backstory and lore of 
-[Khan](/Characters/NPCs/Lore Characters/Khan.md), [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md), [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md), [Chou](/Characters/NPCs/Lore Characters/Chou.md), [Pyrrhon](/Characters/Bosses/Pyrrhon.md), [Uche](/Characters/NPCs/Various NPCs/Uche.md), and [Padme](/Characters/NPCs/Various NPCs/Padme.md).
+[Khan](/Characters/NPCs/Lore Characters/Khan.md), [Marian](/Characters/NPCs/Lore Characters/Marian.md), [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md), [Chou](/Characters/NPCs/Lore Characters/Chou.md), [Pyrrhon](/Characters/Bosses/Pyrrhon.md), [Uche](/Characters/NPCs/Various NPCs/Uche.md), and [Padme](/Characters/NPCs/Various NPCs/Padme.md).
 
 --- 
 It’s a dingy night.
@@ -176,7 +176,7 @@ he *wants* to help, yes. But he doesn’t know how. He doesn’t know how to say
 > A particular ten year old brat drowning in his own blood and vomit stirs amongst the rubble.
 
 Shenx. His parents were DEEPLY involved in [TLH](/Locations/TLH.md), and so was he. He was a fierce warrior even at like. Age ten. So of course he fought with them!
-[/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) was kind of giving up (this is the night he left with [Nea](/Characters/Playable Characters/Nea.md)) and [Khan](/Characters/NPCs/Lore Characters/Khan.md) was super pissed off about it so he took his anger out on [TLH](/Locations/TLH.md).
+[Marian](/Characters/NPCs/Lore Characters/Marian.md) was kind of giving up (this is the night he left with [Nea](/Characters/Playable Characters/Nea.md)) and [Khan](/Characters/NPCs/Lore Characters/Khan.md) was super pissed off about it so he took his anger out on [TLH](/Locations/TLH.md).
 [Khan](/Characters/NPCs/Lore Characters/Khan.md) saw Shenx and was in such a hurry to just slaughter everyone, he just sliced off Shenx's legs assuming he'd already died /would die of blood loss.
 Shenx did not die
 So his whole mission is fueled by revenge to kill [Khan](/Characters/NPCs/Lore Characters/Khan.md), and consequently [Pyrrhon](/Characters/Bosses/Pyrrhon.md)'s empire. He built his mech out of the remains of what was left in [TLH](/Locations/TLH.md) and the dead clones that his parents killed. And went to the underground..

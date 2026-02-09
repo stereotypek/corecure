@@ -17,7 +17,7 @@
         - Tbh NML is more of a joke than a real thing, due to how rare Exilation is.
             - “Haha! You’re gonna be sent to No Man’s Land! Don’t say that!”
             - “No Man’s Land’s better than this!!”
-    - Fun fact: [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) is the only person to travel NML and _live_. Versailles, the old temple, was there.
+    - Fun fact: [Marian](/Characters/NPCs/Lore Characters/Marian.md) is the only person to travel NML and _live_. Versailles, the old temple, was there.
     - Also, [Pyrrhon](/Characters/Bosses/Pyrrhon.md) and other scientists are just too scared to go to NML. They dont know what happened since nature mutated uncontrollably since that time.
     - A few people live in NML actually, but they’re more of ‘gangs’ than real ‘towns’. They also all die.
     - It has no laws so it appeals to a few people who actualy survive. They’re like Amish people but extremely violent
