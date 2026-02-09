@@ -4,7 +4,7 @@
 
 
 ### Personality
-Kit is a ??? Year old with nothing in her head. She, like [Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md), is also barely able to be heard and speaks though mutters. Unlike [Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md), she speaks frequently and sounds like a white noise machine. Kit also shakes (mostly out of fear and anxiety) and finds it extremely hard to speak for herself at all. She has incredible anxiety which is NOT helped by [Adam](CΓÖíRE/Characters/NPCs/Various NPCs/Adam.md) and spends most of her time trembling in fear. [Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md) feels very bad for her and tries to give her some peace away from Omega and [Adam](CΓÖíRE/Characters/NPCs/Various NPCs/Adam.md), but they both find pleasure in seeing Kit fall over and sob so they ruin her day always. Kit has no idea what the hell is happening at any time since she is too scared to even remember a single thing. The reason she has her dolls there is because she crafts them to fight for her, since she is terrified of pain
+Kit is a ??? Year old with nothing in her head. She, like [Dinh](/Characters/NPCs/Various NPCs/Dinh.md), is also barely able to be heard and speaks though mutters. Unlike [Dinh](/Characters/NPCs/Various NPCs/Dinh.md), she speaks frequently and sounds like a white noise machine. Kit also shakes (mostly out of fear and anxiety) and finds it extremely hard to speak for herself at all. She has incredible anxiety which is NOT helped by [Adam](/Characters/NPCs/Various NPCs/Adam.md) and spends most of her time trembling in fear. [Dinh](/Characters/NPCs/Various NPCs/Dinh.md) feels very bad for her and tries to give her some peace away from Omega and [Adam](/Characters/NPCs/Various NPCs/Adam.md), but they both find pleasure in seeing Kit fall over and sob so they ruin her day always. Kit has no idea what the hell is happening at any time since she is too scared to even remember a single thing. The reason she has her dolls there is because she crafts them to fight for her, since she is terrified of pain
 ### Fighting Style
 Well. She stands at a far distance and fires off her dolls. Extreme magic capabilities since the dolls do have mild sentience.
 if she had grown up, she could have easily started a whole new religion due to her power. However she did not. 
@@ -14,9 +14,9 @@ In game, hypothetically, pressing the attack button would have a doll run out fr
 
 ### Relations 
 Her thoughts on:
-[Adam](CΓÖíRE/Characters/NPCs/Various NPCs/Adam.md): My Big brother.. (positive connotation) 
-[Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md): my older brother… (negative connotation)
-[Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md): scary,, but she is still my mom. 
+[Adam](/Characters/NPCs/Various NPCs/Adam.md): My Big brother.. (positive connotation) 
+[Omega](/Characters/NPCs/Various NPCs/Omega.md): my older brother… (negative connotation)
+[Dinh](/Characters/NPCs/Various NPCs/Dinh.md): scary,, but she is still my mom. 
 
 
 

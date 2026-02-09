@@ -3,7 +3,7 @@
 ---
 
 
-This note is UNFINISHED. Lives in [Hà-Binh](CΓÖíRE/Locations/Hà-Binh.md)
+This note is UNFINISHED. Lives in [Hà-Binh](/Locations/Hà-Binh.md)
 
 *“I have nothing to lose. You, on the other hand? Everything. Now tell me what you know.”*
 
@@ -22,7 +22,7 @@ Honey’s surprisingly empathetic to other clones and is usually willing to give
 
 Honey doesn’t have much to her, so she says.  
 
-Born in 3.0’s “humanitarian cloning program”, she was no 3 out of 9. The smaller the number, the older the body skeleton. Honey was born into the body of a 25-year-old male. He’s [Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md), he’s the world’s best clone.
+Born in 3.0’s “humanitarian cloning program”, she was no 3 out of 9. The smaller the number, the older the body skeleton. Honey was born into the body of a 25-year-old male. He’s [Omega](/Characters/NPCs/Various NPCs/Omega.md), he’s the world’s best clone.
 
 Honey had the most of the PRODIGAL CORE inserted into him, giving him insane amounts of strength. With this, he was easily trusted and let into areas she shouldn’t be.
 
@@ -44,9 +44,9 @@ One day until execution.
 
 Then, nothing at all.
 
-No one, at least in the general public, knows what happened or where she went; All they know was that 3 PiBots were torn apart and that [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md)— The *original war leader* Pyrrhon— was injured.
+No one, at least in the general public, knows what happened or where she went; All they know was that 3 PiBots were torn apart and that [Pyrrhon](/Characters/Bosses/Pyrrhon.md)— The *original war leader* Pyrrhon— was injured.
 
-[Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md) said she wanted to be there when "[Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md)'s futile resistance fell", and stood right in front of Honey taunting her. But Honey broke out and injured her. The laser was fired and Omega was nowhere to be found and is presumed dead.
+[Pyrrhon](/Characters/Bosses/Pyrrhon.md) said she wanted to be there when "[Omega](/Characters/NPCs/Various NPCs/Omega.md)'s futile resistance fell", and stood right in front of Honey taunting her. But Honey broke out and injured her. The laser was fired and Omega was nowhere to be found and is presumed dead.
 
 No one had ever done that before.
 

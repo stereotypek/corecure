@@ -4,7 +4,7 @@
 
 ADDITIONAL CONTEXT IS PROVIDED IN THE DEV NOTES. 
 The backstory and lore of 
-[Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md), [CΓÖíRE/Characters/NPCs/Lore Characters/Marian](CΓÖíRE/Characters/NPCs/Lore Characters/Marian.md), [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md), [Chou](CΓÖíRE/Characters/NPCs/Lore Characters/Chou.md), [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md), [Uche](CΓÖíRE/Characters/NPCs/Various NPCs/Uche.md), and [Padme](CΓÖíRE/Characters/NPCs/Various NPCs/Padme.md).
+[Khan](/Characters/NPCs/Lore Characters/Khan.md), [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md), [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md), [Chou](/Characters/NPCs/Lore Characters/Chou.md), [Pyrrhon](/Characters/Bosses/Pyrrhon.md), [Uche](/Characters/NPCs/Various NPCs/Uche.md), and [Padme](/Characters/NPCs/Various NPCs/Padme.md).
 
 --- 
 It’s a dingy night.
@@ -30,7 +30,7 @@ Now, this group was Kind of like a band of misfits. The leftovers. The only two 
 
 But that doesn’t matter. Yes, Khan and Marian hate each other. Yes, Khan thinks Marian is egotistical for his motivations. But ultimately, their shared hatred for Pithaches (pronounced Pith- ahh- keys) trumps their hatred for each other. 
 
-so the final test in the [Colosseum](CΓÖíRE/Locations/Colosseum.md) is like a hunger games sort of thing and it’s played live for the public. It’s like their NFL. They end up coming in fourth place. 
+so the final test in the [Colosseum](/Locations/Colosseum.md) is like a hunger games sort of thing and it’s played live for the public. It’s like their NFL. They end up coming in fourth place. 
 
 Welcome to the national guardian association, group 24601!
 
@@ -44,8 +44,8 @@ Marian, after a particularly rough mission, finds Pithaces dead in a ditch somew
 He doesn’t tell Khan, just dragging Pithace’s corpse into a 6 foot hole and burying him silently. Without incense, without thanks or regrets. A sign was stabbed into the thick, crusted metal of the Earth which read “PITHACES” in the worst handwriting possible. Not that Marian knew how to write anyway, so it probably read something else.
 
 Anyway. He and Khan go more separate into their opposite ways. 
-Until one day, they’re sent on a mission with [Uche](CΓÖíRE/Characters/NPCs/Various NPCs/Uche.md) and [Padme](CΓÖíRE/Characters/NPCs/Various NPCs/Padme.md). 
-Now, they were sent in particular to put down the ANGELS, a rouge AI which was taking over the dead corpses of clones in the mountains of Ngima (Reference [Hà-Binh](CΓÖíRE/Locations/Hà-Binh.md)). 
+Until one day, they’re sent on a mission with [Uche](/Characters/NPCs/Various NPCs/Uche.md) and [Padme](/Characters/NPCs/Various NPCs/Padme.md). 
+Now, they were sent in particular to put down the ANGELS, a rouge AI which was taking over the dead corpses of clones in the mountains of Ngima (Reference [Hà-Binh](/Locations/Hà-Binh.md)). 
 
 Now, Khan and Marian’s quarrels were so incredibly destructive that this was actually a suicide mission. They weren’t supposed to actually take out the angels. 
 Uche and Padme are odd scenarios. Uche is a warrior, and Padme is a magician. Neither of them want to be there, but they’re attached at the hip. A packaged deal!
@@ -134,7 +134,7 @@ Khan reports that Marian died in combat. Chou says nothing. and the rest is hist
 
 A particular ten year old brat drowning in his own blood and vomit stirs amongst the rubble.
 
-> refer to [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md) for more information
+> refer to [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md) for more information
 
 …
 
@@ -175,10 +175,10 @@ he *wants* to help, yes. But he doesn’t know how. He doesn’t know how to say
 ### Shenx
 > A particular ten year old brat drowning in his own blood and vomit stirs amongst the rubble.
 
-Shenx. His parents were DEEPLY involved in [TLH](CΓÖíRE/Locations/TLH.md), and so was he. He was a fierce warrior even at like. Age ten. So of course he fought with them!
-[CΓÖíRE/Characters/NPCs/Lore Characters/Marian](CΓÖíRE/Characters/NPCs/Lore Characters/Marian.md) was kind of giving up (this is the night he left with [Nea](CΓÖíRE/Characters/Playable Characters/Nea.md)) and [Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md) was super pissed off about it so he took his anger out on [TLH](CΓÖíRE/Locations/TLH.md).
-[Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md) saw Shenx and was in such a hurry to just slaughter everyone, he just sliced off Shenx's legs assuming he'd already died /would die of blood loss.
+Shenx. His parents were DEEPLY involved in [TLH](/Locations/TLH.md), and so was he. He was a fierce warrior even at like. Age ten. So of course he fought with them!
+[/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md) was kind of giving up (this is the night he left with [Nea](/Characters/Playable Characters/Nea.md)) and [Khan](/Characters/NPCs/Lore Characters/Khan.md) was super pissed off about it so he took his anger out on [TLH](/Locations/TLH.md).
+[Khan](/Characters/NPCs/Lore Characters/Khan.md) saw Shenx and was in such a hurry to just slaughter everyone, he just sliced off Shenx's legs assuming he'd already died /would die of blood loss.
 Shenx did not die
-So his whole mission is fueled by revenge to kill [Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md), and consequently [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md)'s empire. He built his mech out of the remains of what was left in [TLH](CΓÖíRE/Locations/TLH.md) and the dead clones that his parents killed. And went to the underground..
-People generally respected this 12 year old boy walking in with no legs and a mech doing all sorts of crazy shit. He met lots of good friends (one in particular named Sho) and managed to scrape together enough money and people to revive [TLH](CΓÖíRE/Locations/TLH.md). It's an underground operation still, but they do operate.
-Tl;dr shenx is mad at [Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md) for cutting his legs off, revives a rebellion group out of spite
+So his whole mission is fueled by revenge to kill [Khan](/Characters/NPCs/Lore Characters/Khan.md), and consequently [Pyrrhon](/Characters/Bosses/Pyrrhon.md)'s empire. He built his mech out of the remains of what was left in [TLH](/Locations/TLH.md) and the dead clones that his parents killed. And went to the underground..
+People generally respected this 12 year old boy walking in with no legs and a mech doing all sorts of crazy shit. He met lots of good friends (one in particular named Sho) and managed to scrape together enough money and people to revive [TLH](/Locations/TLH.md). It's an underground operation still, but they do operate.
+Tl;dr shenx is mad at [Khan](/Characters/NPCs/Lore Characters/Khan.md) for cutting his legs off, revives a rebellion group out of spite

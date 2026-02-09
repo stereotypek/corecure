@@ -10,9 +10,9 @@ But surprisingly, she’d do anything for her friends. She’s quite gullible an
 This actually stresses her out greatly and she has essentially trained herself to enjoy the pain which is how she gets out her stress— gore. Gore gore and more gore. Gamma will fight until the day she dies. In fact, that’s how she hopes to go out. As an explosion, rather than a long drawn-out flame.
 
 ## Backstory
-Gamma was born into a 16-year-old-female-titanium skeleton within generation 3 ( even though [Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md) remains to be ~10 years older than her), and is the second youngest clone in that generation outside of [Epsilon](CΓÖíRE/Characters/NPCs/Other clones/Epsilon.md). She was born prematurely, but is still quite healthy.
-She never particularly stood out when fighting for Pyrrhon, except until when she’d left FUTURE. Everyone else kind of ignored the newer g3 clones, and many (like [Phi](CΓÖíRE/Characters/NPCs/Other clones/Phi.md), [Chi](Chi.md), and [Muse](CΓÖíRE/Characters/NPCs/Other clones/Muse.md)) didn’t even know that they existed. 
-Because of her general.. being-ignored-thing, she was paired up with another Low-level clone— a cranky old gen-2, half-working piece of scrap metal named [Prodigal](CΓÖíRE/Characters/Bosses/Prodigal.md).  Over Gamma’s lifetime (from years 8-17) she grew extremely close to [Prodigal](CΓÖíRE/Characters/Bosses/Prodigal.md), almost to the point of an obsession. [Prodigal](CΓÖíRE/Characters/Bosses/Prodigal.md) could have quite honestly cared less. Anyway, one day, Prodigal came up with a full map of FUTURE which had been dropped off of an abandoned hard-drive while she was dumpster diving. 
+Gamma was born into a 16-year-old-female-titanium skeleton within generation 3 ( even though [Honeycakes](/Characters/Playable Characters/Honeycakes.md) remains to be ~10 years older than her), and is the second youngest clone in that generation outside of [Epsilon](/Characters/NPCs/Other clones/Epsilon.md). She was born prematurely, but is still quite healthy.
+She never particularly stood out when fighting for Pyrrhon, except until when she’d left FUTURE. Everyone else kind of ignored the newer g3 clones, and many (like [Phi](/Characters/NPCs/Other clones/Phi.md), [Chi](Chi.md), and [Muse](/Characters/NPCs/Other clones/Muse.md)) didn’t even know that they existed. 
+Because of her general.. being-ignored-thing, she was paired up with another Low-level clone— a cranky old gen-2, half-working piece of scrap metal named [Prodigal](/Characters/Bosses/Prodigal.md).  Over Gamma’s lifetime (from years 8-17) she grew extremely close to [Prodigal](/Characters/Bosses/Prodigal.md), almost to the point of an obsession. [Prodigal](/Characters/Bosses/Prodigal.md) could have quite honestly cared less. Anyway, one day, Prodigal came up with a full map of FUTURE which had been dropped off of an abandoned hard-drive while she was dumpster diving. 
 They began hatching a plan, a plan no one had thought of before: to get out of FUTURE once and for all. From 6 months of planning came the great escape from FUTURE. Their life, right in their hands, so close— 
 As Gamma clung onto the hatch at the ceiling, Prodigal so close— 
 BAM!!
@@ -21,14 +21,14 @@ Prodigal did not.
 The last thing Gamma saw was the eyes of Pyrrhon, and nothing else, as she crashed into Earth’s surface.
 For some odd reason, Gamma couldn’t remember Prodigal’s face when she landed. Nor Prodigal as a concept. 
 Where was she?
-Gamma was saved by [Constantine](CΓÖíRE/Characters/Playable Characters/Constantine.md), a lone compsci nerd with nothing else to do but cut himself and weep. From that, she built her career of independent hitman work and bodyguarding and whatnot. 
+Gamma was saved by [Constantine](/Characters/Playable Characters/Constantine.md), a lone compsci nerd with nothing else to do but cut himself and weep. From that, she built her career of independent hitman work and bodyguarding and whatnot. 
 There’s something still that itches her though, and it’s the strange, black, gooey figure who appears in the corner of her vision sometimes. 
 
 ## Relationship with...
 Nea
 > ""
 
-[Constantine and Gamma](CΓÖíRE/Characters/NPCs/Functional NPCs/Constantine and Gamma.md)
+[Constantine and Gamma](/Characters/NPCs/Functional NPCs/Constantine and Gamma.md)
 ## Misc
 
 **Mercenary History**
@@ -37,10 +37,10 @@ Gamma’s a *merc*, or a mercenary, who does paid work. Despite only being on Ea
 narrator: it was not perfect
 Gamma soon found herself in a tub of ice, completely naked, with her clothes torn up and weapons gone.
 She’d been kidnapped! They weren’t going to *give* her Cyberwear, they were going to *take hers!*
-Gamma doesn’t remember much of the incident, or at least that’s what she says. But [Rita](CΓÖíRE/Characters/NPCs/Various NPCs/Rita.md) does.
+Gamma doesn’t remember much of the incident, or at least that’s what she says. But [Rita](/Characters/NPCs/Various NPCs/Rita.md) does.
 The first thing that Rita saw was a blood and gut covered ceiling, with weapons and scalpels turned everywhere, and a suspiciously naked little girl in the middle of it. 
 She’d killed all of the scavengers— and lived to tell the tale. admittedly, Rita’s first thought was not ‘is she okay’ but ‘wow i shoudl hire her!’. And that’s what she did.
-Gamma’s been working peacefully with [Rita](CΓÖíRE/Characters/NPCs/Various NPCs/Rita.md), [Moanama](CΓÖíRE/Characters/NPCs/Various NPCs/Moanama.md), and the other [Fixers](CΓÖíRE/Characters/NPCs/Functional NPCs/Fixers.md) peacefully ever since.
+Gamma’s been working peacefully with [Rita](/Characters/NPCs/Various NPCs/Rita.md), [Moanama](/Characters/NPCs/Various NPCs/Moanama.md), and the other [Fixers](/Characters/NPCs/Functional NPCs/Fixers.md) peacefully ever since.
 
 # Items
 

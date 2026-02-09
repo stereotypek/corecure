@@ -167,4 +167,4 @@ This needs to be updated
 
 
 
-to check out more mechanics, check out [Unsure Mechanics](CΓÖíRE/Bits/Game Mechanics/Unsure Mechanics.md)
+to check out more mechanics, check out [Unsure Mechanics](/Bits/Game Mechanics/Unsure Mechanics.md)

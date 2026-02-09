@@ -11,14 +11,14 @@ His fits grow to comically large sizes and he uses it to tackle and pin down peo
 Due to his genetics and sharp teeth (if you look closely they have barbs), he will just gnaw off people’s arms and ropes and wires. 
 NO magical capabilities whatsoever.
 
-[Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md) describes him as a hawk, since he usually hides in the shadows (usually walking on all fours), then lunches at his prey with his hands. He keeps his victim pinned down while he severs the central nerve in their neck with his teeth and feeds.
+[Dinh](/Characters/NPCs/Various NPCs/Dinh.md) describes him as a hawk, since he usually hides in the shadows (usually walking on all fours), then lunches at his prey with his hands. He keeps his victim pinned down while he severs the central nerve in their neck with his teeth and feeds.
 he has the jaw of a panda and can chew through almost anything. he also doesnt mind how many things taste, BUT he exclusively eats meat. He will spit out everything else.
 
 
 ### Relations
-[Kit](CΓÖíRE/Characters/NPCs/Various NPCs/Kit.md): Ah, god. She’s so cute. I gotta keep her safe. And what the hell is in those dolls?! C’mon, Kit, get behind me! I’ll handle these guys. you’re so cute when you tremble like that! (Takes joy in terrorizing her).
-[Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md): the only one who really *gets* me, but he can be such a Jerk!
-[Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md): stuck up princess. But, we’re on the same page sometimes. 
+[Kit](/Characters/NPCs/Various NPCs/Kit.md): Ah, god. She’s so cute. I gotta keep her safe. And what the hell is in those dolls?! C’mon, Kit, get behind me! I’ll handle these guys. you’re so cute when you tremble like that! (Takes joy in terrorizing her).
+[Omega](/Characters/NPCs/Various NPCs/Omega.md): the only one who really *gets* me, but he can be such a Jerk!
+[Dinh](/Characters/NPCs/Various NPCs/Dinh.md): stuck up princess. But, we’re on the same page sometimes. 
 
 ![IMG_9092.png](/img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_9092.png)
 ![IMG_9102.jpeg](/img/user/C%CE%93%C3%96%C3%ADRE/Pictures/IMG_9102.jpeg)

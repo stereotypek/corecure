@@ -3,16 +3,16 @@
 ---
 
 
-This note is UNFINISHED. Lived in [Sosolensk](CΓÖíRE/Locations/Sosolensk.md)
+This note is UNFINISHED. Lived in [Sosolensk](/Locations/Sosolensk.md)
 
-daughter of [CΓÖíRE/Characters/NPCs/Lore Characters/Marian](CΓÖíRE/Characters/NPCs/Lore Characters/Marian.md)
+daughter of [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md)
 
 ## Personality
 _Nea, overall, is an egotistical brat. Yes, she’s smart enough to back that up, but she thinks awfully highly of herself. She’s horribly selfish, she only works for herself, and herself only. No one needs to know more about her. With that, she’s stoic and cold and would barely respond to you. She’s got a slender and tall build, with a hefty ponytail which could blanket a small child._
 _Nea’s a feisty little thing. She’s aggressive and passionate, but tries not to let it slip out to preserve her image. She can be extremely rude, but sometimes she isn’t aware of it, so you’ll just have to tell her directly. She tries not to show any emotion, but she isn’t great at it. She comes across as more of a “Tsundere” than a cold and serious person once you get to know her. She’s pretty intimidating and likes to stay organized and on-top of things. She’s a perfectionist to a fault._
 _Psychotically smart, Nea’s got some pretty fucked up ideas and thoughts in her head.
 ## Backstory
-Nea’s origins are unknown to her. She woke up in a temple and grew up in a temple. One of the first students of [General Worldbuilding](CΓÖíRE/Bits/Worldbuilding/General Worldbuilding.md), she grew as an exceptional musician and an expert at manipulating magic to her will. Age 18 was the day to take over her father.
+Nea’s origins are unknown to her. She woke up in a temple and grew up in a temple. One of the first students of [General Worldbuilding](/Bits/Worldbuilding/General Worldbuilding.md), she grew as an exceptional musician and an expert at manipulating magic to her will. Age 18 was the day to take over her father.
 She doesn’t really like her father. Cold and stoic and harsh, that’s all. No loving relationship whatsoever, barely even a father.
 And God knows what sort of mother she might’ve had should she had lived.
 At age 18, a woman in violet and black robes waltzes into the lobby. Recognized as Pyrrhon, world leader. War leader. The only person in power and the only person to remain in power.
@@ -20,7 +20,7 @@ Nea could really care less.
 Until she walks into her room and sees her father’s corpse, mangled and burnt. And who else to stand above it but that woman?
 “My daughter,” [ she](Pyrrhon .md) says to Nea. “I found you.”
 ”I am not your daughter.”
-Her father coughs up blood. [CΓÖíRE/Characters/NPCs/Lore Characters/Marian](CΓÖíRE/Characters/NPCs/Lore Characters/Marian.md), renowned warrior, accomplished magician. Cowering at her feet like an animal.
+Her father coughs up blood. [/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md), renowned warrior, accomplished magician. Cowering at her feet like an animal.
 Marian reaches into the depths of his chest, and out comes a beating heart.
 Not a heart, a CORE. A machine of dreams and delusions.
 Nea looks up at Pyrrhon.

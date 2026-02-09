@@ -3,7 +3,7 @@
 ---
 
 ## Hackinf
-Ahh.. [Constantine](CΓÖíRE/Characters/Playable Characters/Constantine.md)'s favorite (lie) pastime.
+Ahh.. [Constantine](/Characters/Playable Characters/Constantine.md)'s favorite (lie) pastime.
 ***Netrunning -----***
 Since a lot of netrunning is done via personal hardware embedded in the person, constantine and many others employ Zombies to do their dirty work
 
@@ -14,8 +14,8 @@ Some particularly notorious folks rent out zombie servers (warehouses with coole
 You can also rent out full zombie warehouses and servers for advanced DDOSs. As you can also imagine the servers are raided frequently, so they are entirely remotely hosted. They are built with bombs in the zombies and also in the hardware so there's many reports of people accidentally wandering into a server warehouse and dying because the place self destructs basically.
 
 ## General
-I like to imagine that some independent fishers go out paddle boarding to save on power and electricity. Also because they cant afford boats. [Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md) does this with a lot of her days, but a lot of the fishing areas are mostly filled with oil.. luckily for her, that means the fish float near the surface so she’s able to stab them. Shes a great paddler, she just doesnt like water bc she weighs like 2 tons (kidding). 
-I also like to headcanon that [Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md) is so heavy, that when she sits down on a chair, she doesnt actually sit down or she’d break it. She does an electric chair squat instead.
+I like to imagine that some independent fishers go out paddle boarding to save on power and electricity. Also because they cant afford boats. [Honeycakes](/Characters/Playable Characters/Honeycakes.md) does this with a lot of her days, but a lot of the fishing areas are mostly filled with oil.. luckily for her, that means the fish float near the surface so she’s able to stab them. Shes a great paddler, she just doesnt like water bc she weighs like 2 tons (kidding). 
+I also like to headcanon that [Honeycakes](/Characters/Playable Characters/Honeycakes.md) is so heavy, that when she sits down on a chair, she doesnt actually sit down or she’d break it. She does an electric chair squat instead.
 
 
 ### Refined vs Unrefined Magic

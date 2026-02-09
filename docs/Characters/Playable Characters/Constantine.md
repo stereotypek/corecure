@@ -3,18 +3,18 @@
 ---
 
 
-*Not a clone, but not anything else either. Just a guy running from his student loans like everyone else.* Belongs to [Hà-Binh](CΓÖíRE/Locations/Hà-Binh.md)
+*Not a clone, but not anything else either. Just a guy running from his student loans like everyone else.* Belongs to [Hà-Binh](/Locations/Hà-Binh.md)
 
 “... Who are you, again?”
 
 ## Personality 
 He’s like, *that* guy. 
-Imagine the one with ADHD who says unhinged shit, but flourishes in things like art, animation, and movie analysis and likes Scott the Woz. He’s like that but for engineering and warships. His above all special interest is studying [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md)’s COREs and learning about the past human civilization.
-Constantine is pretty cautiously offensive. Passive aggressive. Heavy restraint. He’s generally timid and cautious, and extremely unathletic. kind of a NEET, a pathetic loser NEET. if if weren’t for [Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md), he'd be executed via his student loans. 
+Imagine the one with ADHD who says unhinged shit, but flourishes in things like art, animation, and movie analysis and likes Scott the Woz. He’s like that but for engineering and warships. His above all special interest is studying [Pyrrhon](/Characters/Bosses/Pyrrhon.md)’s COREs and learning about the past human civilization.
+Constantine is pretty cautiously offensive. Passive aggressive. Heavy restraint. He’s generally timid and cautious, and extremely unathletic. kind of a NEET, a pathetic loser NEET. if if weren’t for [Gamma](/Characters/Playable Characters/Gamma.md), he'd be executed via his student loans. 
 He has pretty crippling anxiety with people who aren’t his very close friends. Otherwise he’s really sarcastic and kind of mean 
-He's an alcoholic who relies on various drugs to keep himself awake and lively, so he likes [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md)
-He's really only comfortable and openly mean in front of [Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md), they're non-familial siblings. A loser, but a smart (and stubborn) loser. Oh, and Cassidy
-His outside disguise before [TLH](CΓÖíRE/Locations/TLH.md) is as a mechanic. His personal workshop is a small stall wedged in-between two large buildings. He’s really good but not well known. He mostly only works for himself and his friends. He’s the main mechanic in [TLH](CΓÖíRE/Locations/TLH.md).
+He's an alcoholic who relies on various drugs to keep himself awake and lively, so he likes [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md)
+He's really only comfortable and openly mean in front of [Gamma](/Characters/Playable Characters/Gamma.md), they're non-familial siblings. A loser, but a smart (and stubborn) loser. Oh, and Cassidy
+His outside disguise before [TLH](/Locations/TLH.md) is as a mechanic. His personal workshop is a small stall wedged in-between two large buildings. He’s really good but not well known. He mostly only works for himself and his friends. He’s the main mechanic in [TLH](/Locations/TLH.md).
 He has scars from a bad burning accident while his dad was fucking with chemicals. He's physically fine. But he's so ugly he wears a welding mask to cover it up.
 ## Backstory
 Constantine was born into a little family in current-day Philipines, up in Bontoc. He lived in a small village, with very little access to technology except for things like fliphones and creaky computers. This is because it rains almost all the time, and most of the houses are made of tar, planks, leaves, metal sheets, etc. 
@@ -34,8 +34,8 @@ Constantine is actually in horrific debt due to that (he vastly underestimated t
 
 ## Relationship with…
 Relationship with Shenx
-Constantine and [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md) have a pretty cooperative deal together. Constantine gives him information and [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md) provides him with basic needs. [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md) is essentially his boss and hires Constantine to get leads on gov officials. The rest of [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md)’s team, like [Sho](CΓÖíRE/Characters/NPCs/Functional NPCs/Sho.md), do all of the physical work. 
-it took a very, very long time for Constantine to warm up to [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md) since he has pretty crippling anxiety, but it did happen and they’re inseparable now.
+Constantine and [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md) have a pretty cooperative deal together. Constantine gives him information and [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md) provides him with basic needs. [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md) is essentially his boss and hires Constantine to get leads on gov officials. The rest of [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md)’s team, like [Sho](/Characters/NPCs/Functional NPCs/Sho.md), do all of the physical work. 
+it took a very, very long time for Constantine to warm up to [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md) since he has pretty crippling anxiety, but it did happen and they’re inseparable now.
 People speculate if they are dating. Constantine pretty vehemently denies it. Shenx doesn’t seem to care.
 Relationship with XETA
 So people like to joke with Constantine saying that Xeta is his discord girlfriend. He likes to beat them back up. He's kind of scrawny so he just grumbles and leaves. He's a little gay twink (all compsci majors are).
@@ -54,19 +54,19 @@ Shenx and Constantine's first major interaction was when they raided a huge part
 So they dressed up together. Const actualy had to dress up as a girl in order to get in so Clementine really enjoyed blackmailing him with that.
 It's pretty heavily implied that Constantine and Shenx boned. Anyway Constantine just gets really shy around Shenx. People also theorize that about Shenx and Constantine Shenx is like the stereotypical bartender. thing? He's the guy with no legs if you remember him. He's just an overall sweet guy and Constantine really appreciates him. Actually so much that Constantine goes out of his way to give Shenx elaborate gifts as a thank you (shenx has started taking on Const's rent)
 Relationship with Gamma
-Constantine and [Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md) have a pretty ‘odd’ relationship. While still civil, they aren’t particularly close with each other. It’s more of a business relationship— Constantine does what he wants with her, and she helps him financially. Or so it seems
+Constantine and [Gamma](/Characters/Playable Characters/Gamma.md) have a pretty ‘odd’ relationship. While still civil, they aren’t particularly close with each other. It’s more of a business relationship— Constantine does what he wants with her, and she helps him financially. Or so it seems
 It gets 
 A lot deeper than that though.
-[Constantine and Gamma](CΓÖíRE/Characters/NPCs/Functional NPCs/Constantine and Gamma.md)
+[Constantine and Gamma](/Characters/NPCs/Functional NPCs/Constantine and Gamma.md)
 
 
 
-He’s neutral about [Nea](CΓÖíRE/Characters/Playable Characters/Nea.md). 
-He is deeply scared of [Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md).
+He’s neutral about [Nea](/Characters/Playable Characters/Nea.md). 
+He is deeply scared of [Honeycakes](/Characters/Playable Characters/Honeycakes.md).
 
 ## Current Standings
 As of about right now, Constantine’s job varies from blackmail, interceptions, hacking, etc. is Constantine a good person? No. Constantine dissected his now sister and sold her data to the dark web. Constantine actively ruins people’s lives by selling their private information. Constantine blackmails people. But he is aware of that. He’s aware he’s irredeemable (is he?), and I think that’s what makes him cool.
-I wouldn’t say Constantine particularly enjoys being a part of the main story. He likes [Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md), and he likes [Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md). And he likes [TLH](CΓÖíRE/Locations/TLH.md), but he doesn’t really like.. everything else. He doesn’t want to be involved.
+I wouldn’t say Constantine particularly enjoys being a part of the main story. He likes [Shenx](/Characters/NPCs/Functional NPCs/Shenx.md), and he likes [Gamma](/Characters/Playable Characters/Gamma.md). And he likes [TLH](/Locations/TLH.md), but he doesn’t really like.. everything else. He doesn’t want to be involved.
 
 # Gameplay 
 
@@ -94,7 +94,7 @@ I wouldn’t say Constantine particularly enjoys being a part of the main story.
 
 
 **Role**: Long Range Heavy Hitter
-	Did you know that [Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md) is faster than this bastard? He wields a huge machine gun which weighs him down to the ground basically.
+	Did you know that [Honeycakes](/Characters/Playable Characters/Honeycakes.md) is faster than this bastard? He wields a huge machine gun which weighs him down to the ground basically.
 
 **Base**: Snuffr
 > 	Constantine has this huge rifle. The bullet will despawn once hitting the edge of the camera, essentially giving you range to hit whatever is in your view. He is kind of stationary, and can move and air-dodge while aiming, but it doesn’t help.

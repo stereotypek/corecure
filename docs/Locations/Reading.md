@@ -14,7 +14,7 @@ Now, a typical business card might look something like this:
 The code at the bottom describes the exact location.
 
 From largest to smallest, it goes from
-[Hà-Binh](CΓÖíRE/Locations/Hà-Binh.md), a country
+[Hà-Binh](/Locations/Hà-Binh.md), a country
 Phisit, a county 
 Sampaguita, a city
 DN(code), direct address within that city.

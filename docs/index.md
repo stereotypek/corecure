@@ -42,11 +42,11 @@ Anyway, think of LA and New York. Compress it into a really awful city.
 Think of the Earth. Take out 75% of it and then replace it with your LA/NY concoction. That is CORE.
 CORE’s this platformer hack-n-slasher which takes place in an ugly cyberpunk landscape. While in the small corners of the Earth, there remain tribes and temples, most of the world has been overrun by capitalism and war. 
 
-It’s known as the Age of Eugenics, all run under [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md): a 200-year-old dictator who looks suspiciously like a 20 year old woman. When she’s not imposing laws or censoring opinions, you’ll find her with a test tube and a nucleus, in hopes of discovering immortality.
-[Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md) is a clone fanatic. She found the perfectly genetic being, or at least what she thought was the perfectly genetic being, and cloned and cloned and *cloned* until the Earth was overrun with them.
+It’s known as the Age of Eugenics, all run under [Pyrrhon](/Characters/Bosses/Pyrrhon.md): a 200-year-old dictator who looks suspiciously like a 20 year old woman. When she’s not imposing laws or censoring opinions, you’ll find her with a test tube and a nucleus, in hopes of discovering immortality.
+[Pyrrhon](/Characters/Bosses/Pyrrhon.md) is a clone fanatic. She found the perfectly genetic being, or at least what she thought was the perfectly genetic being, and cloned and cloned and *cloned* until the Earth was overrun with them.
 The Earth is dying. But who really cares about that, anyway? Because once she destroys and rebuilds Earth in *her perfect image*, everything’s going to be okay..
 
-More can be found somewhere in [Early History](CΓÖíRE/Bits/Worldbuilding/Early History.md)
+More can be found somewhere in [Early History](/Bits/Worldbuilding/Early History.md)
 
 
 # What the fuck are you talking about
@@ -59,115 +59,115 @@ More can be found somewhere in [Early History](CΓÖíRE/Bits/Worldbuilding/Earl
 - "To prevent war i'm going to kill everyone and fill the earth with perfect beings, my clones"
 - profit
 
-If you're interested in a more in-depth explanation, uh, I’ll write it eventually. And if you want more about cloning head to  [Cloning](CΓÖíRE/Bits/Worldbuilding/Cloning.md).  If youre interested in the very beginning of the story read [Prequel](CΓÖíRE/Bits/Story/Prequel.md). 
+If you're interested in a more in-depth explanation, uh, I’ll write it eventually. And if you want more about cloning head to  [Cloning](/Bits/Worldbuilding/Cloning.md).  If youre interested in the very beginning of the story read [Prequel](/Bits/Story/Prequel.md). 
 Do note that if you read prequel, most of it is entirely irrelevant to the main story. Except for a few notable parts. However if you’d like to read the story in chronological order, then the prequel is a nice place to start. If not, um, then you can read the individual character descriptions..
 # Who is Pyrrhon? What's a CORE?
-Great question. [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md) is CORE's dictator and scientist. Creator of clones.
-What's a [CORE](CΓÖíRE/Bits/Worldbuilding/CORE.md)? It's like your heart. Your soul inside of a machine. You need other people's COREs to survive. 
+Great question. [Pyrrhon](/Characters/Bosses/Pyrrhon.md) is CORE's dictator and scientist. Creator of clones.
+What's a [CORE](/Bits/Worldbuilding/CORE.md)? It's like your heart. Your soul inside of a machine. You need other people's COREs to survive. 
 Not everyone has a CORE, it's mostly for soldiers. But to survive, they devour and consume other CORE's.
 # What a lame name! 
 Wanna see more? Here's my characters! (The playable ones)
 *”What’s a shift? What’s an extended ability?”*
-Check out [Mechatronix](CΓÖíRE/Bits/Worldbuilding/Mechatronix.md)
+Check out [Mechatronix](/Bits/Worldbuilding/Mechatronix.md)
 
-[Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md)
-[Nea](CΓÖíRE/Characters/Playable Characters/Nea.md)
-[Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md)
-[Constantine](CΓÖíRE/Characters/Playable Characters/Constantine.md)
+[Gamma](/Characters/Playable Characters/Gamma.md)
+[Nea](/Characters/Playable Characters/Nea.md)
+[Honeycakes](/Characters/Playable Characters/Honeycakes.md)
+[Constantine](/Characters/Playable Characters/Constantine.md)
 
 Worried about spoilers? Can’t help you there. 
 ### LORE
-[Prequel](CΓÖíRE/Bits/Story/Prequel.md)
-[Cloning](CΓÖíRE/Bits/Worldbuilding/Cloning.md)
-[Stickfigures](CΓÖíRE/Bits/Worldbuilding/Stickfigures.md)
-[General Worldbuilding](CΓÖíRE/Bits/Worldbuilding/General Worldbuilding.md)
+[Prequel](/Bits/Story/Prequel.md)
+[Cloning](/Bits/Worldbuilding/Cloning.md)
+[Stickfigures](/Bits/Worldbuilding/Stickfigures.md)
+[General Worldbuilding](/Bits/Worldbuilding/General Worldbuilding.md)
 
 ## Wait, where’s the story?!
 Sweats. Well, it’s existed, just not in a good draft. Core’s main story is currently on its ninth draft (with  more to come!) A good way to read up on the story is probably..
-[Prequel](CΓÖíRE/Bits/Story/Prequel.md)
+[Prequel](/Bits/Story/Prequel.md)
 Theres two ways you can diverge from here.
 
-- *FOR MORE ABOUT TLH, SHENX, AND KHAN..* (optional reading, but useful if youre a particularly large fan of [Constantine](CΓÖíRE/Characters/Playable Characters/Constantine.md).
-[Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md)
-[TLH](CΓÖíRE/Locations/TLH.md)
+- *FOR MORE ABOUT TLH, SHENX, AND KHAN..* (optional reading, but useful if youre a particularly large fan of [Constantine](/Characters/Playable Characters/Constantine.md).
+[Shenx](/Characters/NPCs/Functional NPCs/Shenx.md)
+[TLH](/Locations/TLH.md)
 - *FOR MORE/ ABOUT MARIAN AND THE MAIN STORY..*
-[Nea](CΓÖíRE/Characters/Playable Characters/Nea.md)
+[Nea](/Characters/Playable Characters/Nea.md)
 
 Then,
-[Constantine](CΓÖíRE/Characters/Playable Characters/Constantine.md) (if you havent read about tlh and shenx, now is the time to do that.)
-[Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md)
-[Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md) 
-[SCRAPKILL](CΓÖíRE/Bits/Story/SCRAPKILL.md) (Honeycakes centric)
+[Constantine](/Characters/Playable Characters/Constantine.md) (if you havent read about tlh and shenx, now is the time to do that.)
+[Gamma](/Characters/Playable Characters/Gamma.md)
+[Honeycakes](/Characters/Playable Characters/Honeycakes.md) 
+[SCRAPKILL](/Bits/Story/SCRAPKILL.md) (Honeycakes centric)
 
 Now what?
-If that bores you, then you can click on a random character and pray it has a finished description. Like [Coda](CΓÖíRE/Characters/NPCs/Various NPCs/Coda.md) or [07 ANGEL](CΓÖíRE/Characters/Bosses/07 ANGEL.md). 
+If that bores you, then you can click on a random character and pray it has a finished description. Like [Coda](/Characters/NPCs/Various NPCs/Coda.md) or [07 ANGEL](/Characters/Bosses/07 ANGEL.md). 
 
 
 ## Locations
 *”Wait, why are some locations in a completely different format?”*
 I wrote them a very long time ago when CORE was in its initial drafts.
-[FUTURE](CΓÖíRE/Bits/Story/FUTURE.md)
-[Colosseum](CΓÖíRE/Locations/Colosseum.md)
-[Hà-Binh](CΓÖíRE/Locations/Hà-Binh.md)
-[Sosolensk](CΓÖíRE/Locations/Sosolensk.md)
+[FUTURE](/Bits/Story/FUTURE.md)
+[Colosseum](/Locations/Colosseum.md)
+[Hà-Binh](/Locations/Hà-Binh.md)
+[Sosolensk](/Locations/Sosolensk.md)
 [ISS](ISS.md)
-[Intergalactic Railroad](CΓÖíRE/Bits/Worldbuilding/Intergalactic Railroad.md)
-[No Man's Land](CΓÖíRE/Locations/No Man's Land.md)
-[Reading](CΓÖíRE/Locations/Reading.md)
-[TLH](CΓÖíRE/Locations/TLH.md)
+[Intergalactic Railroad](/Bits/Worldbuilding/Intergalactic Railroad.md)
+[No Man's Land](/Locations/No Man's Land.md)
+[Reading](/Locations/Reading.md)
+[TLH](/Locations/TLH.md)
 
 ### Characters 
 *”wait, how come all these links have just a description like “the green one” or “the purple one”?!”*
 Well that’s because im not done yet.
 TLH
-[Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md)
-[Sho](CΓÖíRE/Characters/NPCs/Functional NPCs/Sho.md)
-[Clementine](CΓÖíRE/Characters/NPCs/Functional NPCs/Clementine.md)
+[Shenx](/Characters/NPCs/Functional NPCs/Shenx.md)
+[Sho](/Characters/NPCs/Functional NPCs/Sho.md)
+[Clementine](/Characters/NPCs/Functional NPCs/Clementine.md)
 
-[Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md)
-[Huangzhi](CΓÖíRE/Characters/Bosses/Huangzhi.md)
-[Kei](CΓÖíRE/Characters/NPCs/Lore Characters/Kei.md)
-[CΓÖíRE/Characters/NPCs/Lore Characters/Marian](CΓÖíRE/Characters/NPCs/Lore Characters/Marian.md)
-[Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md)
-[Uche](CΓÖíRE/Characters/NPCs/Various NPCs/Uche.md)
-[Padme](CΓÖíRE/Characters/NPCs/Various NPCs/Padme.md)
-[Mutilation](CΓÖíRE/Characters/Bosses/Mutilation.md)
-[Prodigal](CΓÖíRE/Characters/Bosses/Prodigal.md)
-[07 ANGEL](CΓÖíRE/Characters/Bosses/07 ANGEL.md)
+[Pyrrhon](/Characters/Bosses/Pyrrhon.md)
+[Huangzhi](/Characters/Bosses/Huangzhi.md)
+[Kei](/Characters/NPCs/Lore Characters/Kei.md)
+[/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md)
+[Khan](/Characters/NPCs/Lore Characters/Khan.md)
+[Uche](/Characters/NPCs/Various NPCs/Uche.md)
+[Padme](/Characters/NPCs/Various NPCs/Padme.md)
+[Mutilation](/Characters/Bosses/Mutilation.md)
+[Prodigal](/Characters/Bosses/Prodigal.md)
+[07 ANGEL](/Characters/Bosses/07 ANGEL.md)
 
-[SCRAPKILL](CΓÖíRE/Bits/Story/SCRAPKILL.md)
-[Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md)
-[Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md)
-[Adam](CΓÖíRE/Characters/NPCs/Various NPCs/Adam.md)
-[Kit](CΓÖíRE/Characters/NPCs/Various NPCs/Kit.md)
+[SCRAPKILL](/Bits/Story/SCRAPKILL.md)
+[Omega](/Characters/NPCs/Various NPCs/Omega.md)
+[Dinh](/Characters/NPCs/Various NPCs/Dinh.md)
+[Adam](/Characters/NPCs/Various NPCs/Adam.md)
+[Kit](/Characters/NPCs/Various NPCs/Kit.md)
 
 NPCS
-[Regina n Sam](CΓÖíRE/Characters/NPCs/Functional NPCs/Regina n Sam.md)
-[Moniqua](CΓÖíRE/Characters/NPCs/Lore Characters/Moniqua.md)
-[Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md)
-[Kyo](CΓÖíRE/Characters/NPCs/Various NPCs/Kyo.md)
-[Valen](CΓÖíRE/Characters/NPCs/Various NPCs/Valen.md)
-[Coda](CΓÖíRE/Characters/NPCs/Various NPCs/Coda.md)
+[Regina n Sam](/Characters/NPCs/Functional NPCs/Regina n Sam.md)
+[Moniqua](/Characters/NPCs/Lore Characters/Moniqua.md)
+[Dinh](/Characters/NPCs/Various NPCs/Dinh.md)
+[Kyo](/Characters/NPCs/Various NPCs/Kyo.md)
+[Valen](/Characters/NPCs/Various NPCs/Valen.md)
+[Coda](/Characters/NPCs/Various NPCs/Coda.md)
 
 
 Clones
-[Alpha](CΓÖíRE/Characters/NPCs/Other clones/Alpha.md)
-[Phi](CΓÖíRE/Characters/NPCs/Other clones/Phi.md)
-[Pi](CΓÖíRE/Characters/NPCs/Other clones/Pi.md)
-[Epsilon](CΓÖíRE/Characters/NPCs/Other clones/Epsilon.md)
-[Muse](CΓÖíRE/Characters/NPCs/Other clones/Muse.md)
-[Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md)
-[Kit](CΓÖíRE/Characters/NPCs/Various NPCs/Kit.md)
+[Alpha](/Characters/NPCs/Other clones/Alpha.md)
+[Phi](/Characters/NPCs/Other clones/Phi.md)
+[Pi](/Characters/NPCs/Other clones/Pi.md)
+[Epsilon](/Characters/NPCs/Other clones/Epsilon.md)
+[Muse](/Characters/NPCs/Other clones/Muse.md)
+[Omega](/Characters/NPCs/Various NPCs/Omega.md)
+[Kit](/Characters/NPCs/Various NPCs/Kit.md)
 
-[Fixers](CΓÖíRE/Characters/NPCs/Functional NPCs/Fixers.md)
-[Kyuunai](CΓÖíRE/Characters/NPCs/Functional NPCs/Kyuunai.md)
-[Rita](CΓÖíRE/Characters/NPCs/Various NPCs/Rita.md)
+[Fixers](/Characters/NPCs/Functional NPCs/Fixers.md)
+[Kyuunai](/Characters/NPCs/Functional NPCs/Kyuunai.md)
+[Rita](/Characters/NPCs/Various NPCs/Rita.md)
 
 
 
 ### Gameplay
-[Mechatronix](CΓÖíRE/Bits/Worldbuilding/Mechatronix.md)
-[Unsure Mechanics](CΓÖíRE/Bits/Game Mechanics/Unsure Mechanics.md)
-[game notes](CΓÖíRE/Bits/Game Mechanics/game notes.md)
-[Arena](CΓÖíRE/Bits/Game Mechanics/Arena.md)
-[SideQuests](CΓÖíRE/Bits/Game Mechanics/SideQuests.md) ** note that all recent side quests are stored in the discord.
+[Mechatronix](/Bits/Worldbuilding/Mechatronix.md)
+[Unsure Mechanics](/Bits/Game Mechanics/Unsure Mechanics.md)
+[game notes](/Bits/Game Mechanics/game notes.md)
+[Arena](/Bits/Game Mechanics/Arena.md)
+[SideQuests](/Bits/Game Mechanics/SideQuests.md) ** note that all recent side quests are stored in the discord.

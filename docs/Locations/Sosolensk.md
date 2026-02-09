@@ -3,11 +3,11 @@
 ---
 
 
-Home to [Comakin](CΓÖíRE/Characters/Bosses/Comakin.md), [The Twins](The Twins.md), [07 ANGEL](CΓÖíRE/Characters/Bosses/07 ANGEL.md), [Moniqua](CΓÖíRE/Characters/NPCs/Lore Characters/Moniqua.md), and [Kyuunai](CΓÖíRE/Characters/NPCs/Functional NPCs/Kyuunai.md). 
-[Story Notes](CΓÖíRE/Bits/Story/Story Notes.md)
+Home to [Comakin](/Characters/Bosses/Comakin.md), [The Twins](The Twins.md), [07 ANGEL](/Characters/Bosses/07 ANGEL.md), [Moniqua](/Characters/NPCs/Lore Characters/Moniqua.md), and [Kyuunai](/Characters/NPCs/Functional NPCs/Kyuunai.md). 
+[Story Notes](/Bits/Story/Story Notes.md)
 
 *Sosolensk isn’t really known as being the fanciest place around, but it is most certainly known for those who live in it. A former battlefield for Pyrrhon now turned into the coldest country. Similarly to current day Russia, most Sosolensk denizens are portrayed as cold, strong, and incredibly intimidating.*
-It’s up in the snowy mountains, up in the center. It’s much flatter and more prosperous than [Hà-Binh](CΓÖíRE/Locations/Hà-Binh.md), known for its rich architecture and strict culture. Living conditions aren’t as awful as [ Ngima](Hà-Binh .md) but, they’re not too great either (depending on where you go). Sosolensk is sort of like Hawaii, the hot stop vacation for white girls pretending to be adventurous. 
+It’s up in the snowy mountains, up in the center. It’s much flatter and more prosperous than [Hà-Binh](/Locations/Hà-Binh.md), known for its rich architecture and strict culture. Living conditions aren’t as awful as [ Ngima](Hà-Binh .md) but, they’re not too great either (depending on where you go). Sosolensk is sort of like Hawaii, the hot stop vacation for white girls pretending to be adventurous. 
 Larger areas like Pyatinsty and Shaskala are much more inhabitable, but there are cities and people who live deep in the mountains hunting frozen meat.
 ### Pyatintsy
 The ice palace

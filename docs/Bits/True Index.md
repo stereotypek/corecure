@@ -8,77 +8,77 @@ As you can see, most of it remains unfinished. I’ll format this all.. eventual
 Also— not all of the pages are here since I forget to add them and there’s way too many to keep track of. I am doing my best though!
 [New](New.md)
 Characters:
-[Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md)
-[Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md) | [Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md)
-[Nea](CΓÖíRE/Characters/Playable Characters/Nea.md)
-[Constantine](CΓÖíRE/Characters/Playable Characters/Constantine.md)
+[Gamma](/Characters/Playable Characters/Gamma.md)
+[Honeycakes](/Characters/Playable Characters/Honeycakes.md) | [Omega](/Characters/NPCs/Various NPCs/Omega.md)
+[Nea](/Characters/Playable Characters/Nea.md)
+[Constantine](/Characters/Playable Characters/Constantine.md)
 
-[SPACE MONKEY](CΓÖíRE/Bits/Story/SPACE MONKEY.md)
+[SPACE MONKEY](/Bits/Story/SPACE MONKEY.md)
 
 NPCS
-[Kyuunai](CΓÖíRE/Characters/NPCs/Functional NPCs/Kyuunai.md)
-[Rita](CΓÖíRE/Characters/NPCs/Various NPCs/Rita.md)
-[Kyo](CΓÖíRE/Characters/NPCs/Various NPCs/Kyo.md)
-[Valen](CΓÖíRE/Characters/NPCs/Various NPCs/Valen.md) 
-[Coda](CΓÖíRE/Characters/NPCs/Various NPCs/Coda.md)
-[Prodigal](CΓÖíRE/Characters/Bosses/Prodigal.md)
-[Shenx](CΓÖíRE/Characters/NPCs/Functional NPCs/Shenx.md)
-[Sho](CΓÖíRE/Characters/NPCs/Functional NPCs/Sho.md)
-[Regina n Sam](CΓÖíRE/Characters/NPCs/Functional NPCs/Regina n Sam.md)
-[Moniqua](CΓÖíRE/Characters/NPCs/Lore Characters/Moniqua.md)
-[Fixers](CΓÖíRE/Characters/NPCs/Functional NPCs/Fixers.md)
-[Clementine](CΓÖíRE/Characters/NPCs/Functional NPCs/Clementine.md)
+[Kyuunai](/Characters/NPCs/Functional NPCs/Kyuunai.md)
+[Rita](/Characters/NPCs/Various NPCs/Rita.md)
+[Kyo](/Characters/NPCs/Various NPCs/Kyo.md)
+[Valen](/Characters/NPCs/Various NPCs/Valen.md) 
+[Coda](/Characters/NPCs/Various NPCs/Coda.md)
+[Prodigal](/Characters/Bosses/Prodigal.md)
+[Shenx](/Characters/NPCs/Functional NPCs/Shenx.md)
+[Sho](/Characters/NPCs/Functional NPCs/Sho.md)
+[Regina n Sam](/Characters/NPCs/Functional NPCs/Regina n Sam.md)
+[Moniqua](/Characters/NPCs/Lore Characters/Moniqua.md)
+[Fixers](/Characters/NPCs/Functional NPCs/Fixers.md)
+[Clementine](/Characters/NPCs/Functional NPCs/Clementine.md)
 
 Prequel
-[CΓÖíRE/Characters/NPCs/Lore Characters/Marian](CΓÖíRE/Characters/NPCs/Lore Characters/Marian.md)
-[Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md)
-[Chou](CΓÖíRE/Characters/NPCs/Lore Characters/Chou.md)
-[CΓÖíRE/Characters/NPCs/Lore Characters/Dinh](CΓÖíRE/Characters/NPCs/Lore Characters/Dinh.md)
-[Padme](CΓÖíRE/Characters/NPCs/Various NPCs/Padme.md)
-[Uche](CΓÖíRE/Characters/NPCs/Various NPCs/Uche.md)
+[/Characters/NPCs/Lore Characters/Marian](/Characters/NPCs/Lore Characters/Marian.md)
+[Khan](/Characters/NPCs/Lore Characters/Khan.md)
+[Chou](/Characters/NPCs/Lore Characters/Chou.md)
+[/Characters/NPCs/Lore Characters/Dinh](/Characters/NPCs/Lore Characters/Dinh.md)
+[Padme](/Characters/NPCs/Various NPCs/Padme.md)
+[Uche](/Characters/NPCs/Various NPCs/Uche.md)
 
 
 
-[Huangzhi](CΓÖíRE/Characters/Bosses/Huangzhi.md)
-[Khan](CΓÖíRE/Characters/NPCs/Lore Characters/Khan.md) the red one
-[Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md)
-[07 ANGEL](CΓÖíRE/Characters/Bosses/07 ANGEL.md)
-[Mutilation](CΓÖíRE/Characters/Bosses/Mutilation.md)
-[Muse](CΓÖíRE/Characters/NPCs/Other clones/Muse.md)
+[Huangzhi](/Characters/Bosses/Huangzhi.md)
+[Khan](/Characters/NPCs/Lore Characters/Khan.md) the red one
+[Pyrrhon](/Characters/Bosses/Pyrrhon.md)
+[07 ANGEL](/Characters/Bosses/07 ANGEL.md)
+[Mutilation](/Characters/Bosses/Mutilation.md)
+[Muse](/Characters/NPCs/Other clones/Muse.md)
 
 
 
 Honeys arc
-[SCRAPKILL](CΓÖíRE/Bits/Story/SCRAPKILL.md)
-[CΓÖíRE/Characters/NPCs/Various NPCs/Dinh](CΓÖíRE/Characters/NPCs/Various NPCs/Dinh.md) purple
-[Adam](CΓÖíRE/Characters/NPCs/Various NPCs/Adam.md) blue
-[Kit](CΓÖíRE/Characters/NPCs/Various NPCs/Kit.md) white + orange+red
-[Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md) white/red
+[SCRAPKILL](/Bits/Story/SCRAPKILL.md)
+[/Characters/NPCs/Various NPCs/Dinh](/Characters/NPCs/Various NPCs/Dinh.md) purple
+[Adam](/Characters/NPCs/Various NPCs/Adam.md) blue
+[Kit](/Characters/NPCs/Various NPCs/Kit.md) white + orange+red
+[Omega](/Characters/NPCs/Various NPCs/Omega.md) white/red
 
 
 LORE
-[LORE](CΓÖíRE/Bits/Story/LORE.md)
-[General Worldbuilding](CΓÖíRE/Bits/Worldbuilding/General Worldbuilding.md)
-[Cloning](CΓÖíRE/Bits/Worldbuilding/Cloning.md)
-[Prequel](CΓÖíRE/Bits/Story/Prequel.md)
-[Previous Records](CΓÖíRE/Notion/Previous Records.md)
-[Reading](CΓÖíRE/Locations/Reading.md)
-[Hà-Binh](CΓÖíRE/Locations/Hà-Binh.md)
-[LORE](CΓÖíRE/Bits/Story/LORE.md)
-[THE LASER](CΓÖíRE/Bits/Story/THE LASER.md)
-[Prequel](CΓÖíRE/Bits/Story/Prequel.md)
-[TLH](CΓÖíRE/Locations/TLH.md)
-[CORE](CΓÖíRE/Bits/Worldbuilding/CORE.md)
-[Story Notes](CΓÖíRE/Bits/Story/Story Notes.md)
-[Freestyle](CΓÖíRE/Bits/Game Mechanics/Freestyle.md)
-[Intergalactic Railroad](CΓÖíRE/Bits/Worldbuilding/Intergalactic Railroad.md)
-[Stickfigures](CΓÖíRE/Bits/Worldbuilding/Stickfigures.md)
-[Bits/Story/FUTURE](CΓÖíRE/Bits/Story/FUTURE.md)
+[LORE](/Bits/Story/LORE.md)
+[General Worldbuilding](/Bits/Worldbuilding/General Worldbuilding.md)
+[Cloning](/Bits/Worldbuilding/Cloning.md)
+[Prequel](/Bits/Story/Prequel.md)
+[Previous Records](/Notion/Previous Records.md)
+[Reading](/Locations/Reading.md)
+[Hà-Binh](/Locations/Hà-Binh.md)
+[LORE](/Bits/Story/LORE.md)
+[THE LASER](/Bits/Story/THE LASER.md)
+[Prequel](/Bits/Story/Prequel.md)
+[TLH](/Locations/TLH.md)
+[CORE](/Bits/Worldbuilding/CORE.md)
+[Story Notes](/Bits/Story/Story Notes.md)
+[Freestyle](/Bits/Game Mechanics/Freestyle.md)
+[Intergalactic Railroad](/Bits/Worldbuilding/Intergalactic Railroad.md)
+[Stickfigures](/Bits/Worldbuilding/Stickfigures.md)
+[Bits/Story/FUTURE](/Bits/Story/FUTURE.md)
 
 
 GAME BUILDING
-[Mechatronix](CΓÖíRE/Bits/Worldbuilding/Mechatronix.md)
-[game notes](CΓÖíRE/Bits/Game Mechanics/game notes.md)
-[Arena](CΓÖíRE/Bits/Game Mechanics/Arena.md)
-[Unsure Mechanics](CΓÖíRE/Bits/Game Mechanics/Unsure Mechanics.md)
-[SideQuests](CΓÖíRE/Bits/Game Mechanics/SideQuests.md)
+[Mechatronix](/Bits/Worldbuilding/Mechatronix.md)
+[game notes](/Bits/Game Mechanics/game notes.md)
+[Arena](/Bits/Game Mechanics/Arena.md)
+[Unsure Mechanics](/Bits/Game Mechanics/Unsure Mechanics.md)
+[SideQuests](/Bits/Game Mechanics/SideQuests.md)

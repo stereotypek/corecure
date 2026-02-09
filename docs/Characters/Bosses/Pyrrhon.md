@@ -32,7 +32,7 @@ So she got to work, and built her empire.
 
 Her parents took credit for her work, so she killed them and used them for experimentation. It's the first time she realized that she has that power, and then, discovered the work of early human eugenics, and, with the CORE, set out to create the perfect society to erase all pain.
 
-[Kei](CΓÖíRE/Characters/NPCs/Lore Characters/Kei.md)
+[Kei](/Characters/NPCs/Lore Characters/Kei.md)
 ## GOAL 
 
 Pyrrhon has seen wars. Pyrrhon has lived the wars, Pyrrhon has *been* the war. 

@@ -4,9 +4,9 @@
 
 
 
-- Remember how [Gamma](CΓÖíRE/Characters/Playable Characters/Gamma.md) crash-landed from the sky? She came from FUTURE, an artificial planet built off of a nearby asteroid. It orbits Earth. Most of the building process is confidential.
+- Remember how [Gamma](/Characters/Playable Characters/Gamma.md) crash-landed from the sky? She came from FUTURE, an artificial planet built off of a nearby asteroid. It orbits Earth. Most of the building process is confidential.
         - To prevent further environmental damage, Pyrrhon and her crew built Future, and now they make clones and run nuclear experiments on other nearby planets and stars. This is the head department of science.
-            - Contrary to popular belief, the [Intergalactic Railroad](CΓÖíRE/Bits/Worldbuilding/Intergalactic Railroad.md) doesn’t go here.
+            - Contrary to popular belief, the [Intergalactic Railroad](/Bits/Worldbuilding/Intergalactic Railroad.md) doesn’t go here.
                 - .. why would you think it would..?
             - Once an asteroid, now a full sized artificial planet. It fused with the moon to be around the same size.
         - Just the ultimate lab. It’s in space so no clones can escape and nobody can get up there without explicit permission.

@@ -136,7 +136,7 @@ S: Just what I like to hear!~ please buy me one of Regina’s mango smoothies wh
 (They leave)
 
 
-So anyway the thing that blackmailed them was one of [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md)’s AIs. It was this old thing that stored records for her back when she was still creating gen3 clones and it was basically used as an archiver. 
+So anyway the thing that blackmailed them was one of [Pyrrhon](/Characters/Bosses/Pyrrhon.md)’s AIs. It was this old thing that stored records for her back when she was still creating gen3 clones and it was basically used as an archiver. 
 However Pyrrhon lost the need to use it and destroyed it.
 … not really, though, since it’s alive and actively leaking things onto the internet now.
 The AI is a replica of Pyrrhon and so is initially built to eliminate all threats to humanity’s future. So here are the possible ways it can be defeated
@@ -158,7 +158,7 @@ The AI is a replica of Pyrrhon and so is initially built to eliminate all threat
 	- It shuts itself down in a desperate attempt to "pause" reality and prevent the unknown.
 
 ”what’s the Laser?”
-	*later on in the story, the MC’s discover a laser. It’s extremely powerful, and could easily wipe out FUTURE (where clones are produced). However, the various pieces to it are scattered across the world and protected by particularly dangerous clones (Ie [Phi](CΓÖíRE/Characters/NPCs/Other clones/Phi.md), [Mutilation](CΓÖíRE/Characters/Bosses/Mutilation.md), [Honeycakes](CΓÖíRE/Characters/Playable Characters/Honeycakes.md), etc.) and so, that creates the gameplay. 
+	*later on in the story, the MC’s discover a laser. It’s extremely powerful, and could easily wipe out FUTURE (where clones are produced). However, the various pieces to it are scattered across the world and protected by particularly dangerous clones (Ie [Phi](/Characters/NPCs/Other clones/Phi.md), [Mutilation](/Characters/Bosses/Mutilation.md), [Honeycakes](/Characters/Playable Characters/Honeycakes.md), etc.) and so, that creates the gameplay. 
 	
 	the AI is there to tie the MCs together and to give them initial relations. Except for Honeycakes who appears at the very end. The AI leads them to the laser which is the real meat and potatoes of the game.
 

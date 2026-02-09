@@ -4,7 +4,7 @@
 
 
 
-A CORE is something that a national guardian has. There’s a rumor that [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md) injured God and made the cores out of some of what she cut off of him. 
+A CORE is something that a national guardian has. There’s a rumor that [Pyrrhon](/Characters/Bosses/Pyrrhon.md) injured God and made the cores out of some of what she cut off of him. 
 
 A CORE can be re used once a national guardian dies and placed into another, but what is it?
 

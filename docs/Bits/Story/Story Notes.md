@@ -3,7 +3,7 @@
 ---
 
 
-[Sosolensk](CΓÖíRE/Locations/Sosolensk.md)
+[Sosolensk](/Locations/Sosolensk.md)
 - Moniqua
 - Xinakin
 - Comakin 

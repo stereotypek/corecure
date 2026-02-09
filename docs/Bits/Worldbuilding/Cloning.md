@@ -7,11 +7,11 @@
 
 Also known as *The Mother Womb*
 
-When God fell into [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md)’s hands, it was this incomprehensible green mass, which held no particular shape or form. It did not stick to her hands, but contained a sort of semi-permeable membrane, which would accept living objects inside of it to consume for energy. After all, it had [Kei](CΓÖíRE/Characters/NPCs/Lore Characters/Kei.md) inside of it, acting as her ‘cocoon’. 
+When God fell into [Pyrrhon](/Characters/Bosses/Pyrrhon.md)’s hands, it was this incomprehensible green mass, which held no particular shape or form. It did not stick to her hands, but contained a sort of semi-permeable membrane, which would accept living objects inside of it to consume for energy. After all, it had [Kei](/Characters/NPCs/Lore Characters/Kei.md) inside of it, acting as her ‘cocoon’. 
 
 As she began to study it, she realized that it was completely self-sustainable in energy and could almost never run out, and constantly regenerate itself with no punishment whatsoever. It was like a large mass of dead cells, which still had life within itself (in the membrane— outside of the membrane it would die instantly).
 
-It was the perfect breeding ground for cloning. Using the ‘chopstick method’, [Pyrrhon](CΓÖíRE/Characters/Bosses/Pyrrhon.md) was able to clone her first animal— a sheep. Her name was Tres Leches, which was her favorite dessert.
+It was the perfect breeding ground for cloning. Using the ‘chopstick method’, [Pyrrhon](/Characters/Bosses/Pyrrhon.md) was able to clone her first animal— a sheep. Her name was Tres Leches, which was her favorite dessert.
 
 Tres Leches died. As most cloned animals do. And cloning wasn’t Pyrrhon’s priority until it was.
 
@@ -19,7 +19,7 @@ as time went on, and Pyrrhon developed more political stability and less mental 
 
 She did succeed! Pyrrhon’s first successful creation was the initial batch of Pi-Bots, which she raised like her own daughters. The youngest died at age 6 and the oldest died at age 12. They all have a natural garden as their graveyard which is very carefully attended to.
 
-Over time, she got more busy with politics and got [Huangzhi](CΓÖíRE/Characters/Bosses/Huangzhi.md) to handle most of the cloning. He created [Prodigal](CΓÖíRE/Characters/Bosses/Prodigal.md) all by himself, and the third generation clones (the ‘Greek’ era). Pyrrhon co-developed the other ones further, since the third generation had free will, and they wanted to shift to AI after the incident with [Omega](CΓÖíRE/Characters/NPCs/Various NPCs/Omega.md).
+Over time, she got more busy with politics and got [Huangzhi](/Characters/Bosses/Huangzhi.md) to handle most of the cloning. He created [Prodigal](/Characters/Bosses/Prodigal.md) all by himself, and the third generation clones (the ‘Greek’ era). Pyrrhon co-developed the other ones further, since the third generation had free will, and they wanted to shift to AI after the incident with [Omega](/Characters/NPCs/Various NPCs/Omega.md).
 
 
 # Process
