@@ -1,7 +1,43 @@
+# Nonsensical Ramblings from Discord...
 ---
+In the original CORE (fanfic) there was a recreated coliseum. It had a lot of lore and was unironically one of my best locations; i'm considering bringing it back.
 
----
+It was gonna be like..
 
+Gamma, Nea, and Honey get caught doing crime and are thrown in there. The idea is if your team wins, you guys are granted freedom. If you loose, you die. It's like the live-streamed hunger games.
+
+I don't have the original file on hand but it's basically a GIANT colliseium/dome which is.. of course, in the middle, has the actual grounds. But it's incredibly large and has so many floors it's like a planet. People live here. It's like a baseball stadium but 99 times bigger, with malls and schools and even hotels where you can watch the games live from your window. It's hard to describe the sheer scale on my phone right now
+Anyway I wanted it there because death is so normal in CORE. Treating it like violent sport.. I'm sure it's not going to be a moral issue since it happens all the goddamn time. And people thrive off of violence and excitement line that. The better explanation backed with scientific evidence is in my old docs i'm not digging up tn.
+It was supposed to be a commentary on normalization of violence and death in the universe of CORE and how unsacred life is but that's just unrealistic
+
+The concept is: eligible prisoners who are intended to be in a high security jail can compete here for freedom.
+
+It's supplied by sheer tourism rate. You know how much fucking football and boxing and baseball stadiums make? That shit is INSANE. It's like everyone's "You need to go ONCE". Not even for the main event but also because it's a giant city mall. It's like a casino, you CAN live there long term but it isn't intended. Speaking of which it has casinos, spas, hotels, restaurants, highways in and out, every store you can think of, etc. It's just as shady as Rome is.
+
+Society collapsing of death is this normalized is an interesting thought point. I guess it's because of insane reproduction rates and also the better healthcare and instruction of cybernetic and drug related enhancements which have improved mortality rates.
+The arena is like a sport, an society has just become numb to it. It really is just a city sized stadium
+
+Imagine watching Lord of the Flies then grabbing dinner. Violence is background noise at this point. Some people revel in it but the point is that it isn't some "incredible moral injustice", the point is people don't care. And those that do can justify it with "They were going to die anyway.. So at least have them do one good thing for society!"
+It's also just very economically profitable. I'm sure you can imagine
+
+
+"What about escaping?"
+Goodfuckin luck. With the amount of funding that city gets it's more boarded than south korea.
+
+"How is it watched?"
+Each contestant has surgery done to implant cameras and vitals inside of them to constantly relay information back to the audience. 
+There are also cameras constantly inside of the actual fighting area; lots of them. Sensors everywhere. Of course they get broken but there's some outside, blocked by plexiglass, etc. Fighters aren't intended to use the cameras for violence but it's not like they can really punish them further.
+Sometimes particularly rowdy fighters need to be put down for the safety of the general public if they escape. There are firing squads on duty just in case a grave misjustixe is done (ex: breaking a lot of equipment!). But I dunno about that part tbh.
+
+"Is it like a zoo?"
+Yeah. You can stand in front of thick glass where the contestants inside can't see you but you can see them. They get slammed against the wall and you see their skin and back.
+If a arc goes on for a longtime, ravenous animas are sent in to provide extra challenge and, if killed, better weaponry to speed up the process.
+If two prisoners reach a stalemate the firing squads will shoot one at random, I guess.. but this is rare since they'd just get eaten by the animals.
+The image of tourists eating overpriced noodles while watching a prisoner’s heart rate spike on a giant screen overhead is how it is
+I guess to speed it up they can release toxic gases or cut off the food supply entirely.
+
+--- 
+# Old Writing
 A building thats so incredibly large.
 
 - The colosseum, it’s called. Head of entertainment and manufacturing.

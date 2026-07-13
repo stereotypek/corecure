@@ -37,6 +37,97 @@ Gamma was saved by [Constantine](Constantine.md), a lone compsci nerd with nothi
 
 There’s something still that itches her though, and it’s the strange, black, gooey figure who appears in the corner of her vision sometimes. 
 
+..
+
+
+A key part of her story is Pyrrhon launching a last minute attack on her as she escaped from Future to erase or corrupt her memories as she fell to Earth. This would IDEALLY ensure that her dara would be corrupted , then uploaded to cloud and overwrite her existing data. This leaves no records of usable data left since her body would incinerate during her fall to Earth. But that's not what happened.
+Her memory was still corrupted though. I have a fun idea that Pyrrhon has this STUPIDLY simple
+program that just replaces all bytes with 1 by exploiting a buffer overflow exploit (initial entry into all memory bytes occurs by overflow exploit then  further editing is done another way). It doesn't even matter what it overwrites since everything will be overwritten by 1's anyway. And if everything is true at the same time, it creates an impossible loop as well as data becoming so corrupted that it overheats and dies.
+
+"buffer overflow doesn't work like that" I KNOW let me explain it better
+Instead of erasing memory structures, the exploit targets self-validation mechanisms responsible for maintaining autobiographical coherence. By corrupting verification pathways, the payload forces contradictory memory states to coexist while remaining marked as authentic.
+This produces recursive reconciliation attempts that exponentially increase cognitive load, resulting in identity instability, fragmentation, and eventual functional collapse.
+
+The exploit is favored for its reliability, minimal transmission footprint, and resistance to standard recovery or backup restoration methods. Because its quick, simple, compact, and easy to upload, it is a very quick but deadly way to ensure total cognitive disruption.
+Hypothetically you'd need an exploit along "The payload exploits a memory indexing boundary within the autobiographical identity map, allowing injection without requiring full-system privilege escalation.
+
+This ensures compatibility across heterogeneous cognitive architectures"
+but Pyrrhon comes with root access always anyway.
+
+Integrity markers associated with memory authentication are modified so that verification routines always resolve as successful.
+
+Consequences include:
+    •    corrupted memories treated as legitimate
+    •    contradictory events passing reconciliation checks
+    •    inability to discard invalid identity fragments
+
+This creates a persistent truth-saturation condition within the target.
+Upon detecting logical inconsistencies, the target cognition attempts reconciliation. Because validation cannot fail, reconciliation loops indefinitely without convergence.
+
+This produces:
+    •    persistent cognitive livelock
+    •    escalating processing demand
+    •    prediction and identity indexing failure
+
+Deletion is unnecessary and coherence collapses autonomously.
+To resolve contradictions, the cognition begins generating parallel interpretive branches. These branches inherit corrupted validation states and continue duplicating.
+
+The result is uncontrolled autobiographical branching commonly referred to as an identity fork bomb.
+Recursive validation and identity branching increase compute load and memory churn. Systems attempt error correction, which further amplifies processing demand.
+
+This commonly leads to:
+    •    thermal escalation
+    •    subsystem throttling
+    •    emergency memory isolation
+    •    partial data degradation
+
+Functional identity collapse typically follows.
+In other words, sheer ontological domination
+And since Gamma's body would likely be incinerated, that leaves NO physical evidence, and all corrupted data uploads to cloud and overwrites her previously existing data thus leaving no records but dud files and 1's
+
+um
+In simple terms the exploit is
+A destructive memory rewrite payload disguised as a recovery routine
+that:
+    
+Gains write access through a bounds violation
+Floods memory with a deterministic value (all 1s)
+Corrupts indexing + identity structures first
+Triggers cascade failure in reconstruction logic
+Causes thermal/logic death before physical recovery completes
+Personally this virus is a work of genius in my eyes. Of course it is. I created it.
+Now that Gamma's neurological bits are just 0xFF (1), pointer tables resolve into impossible addresses, invalid integrity checks pass when they aren't supposed to, authentication flags are always true and memory chunks never stop and just grow exponentially.
+And the reconstruction system says "hey:.. erm!! that's not right" and attempts repair.
+The system keeps trying to rebuild identity using metadata that didn't make sense. Healthy data is overwritten with corrupted data. So on.
+
+or
+Payload corrupts memory indexes. Reconstruction daemon detects damage. Daemon begins aggressive recovery. Recovery reads corrupted indexes. Recovery rewrites healthy regions incorrectly. Damage accelerates instead of stabilizing
+
+And creates a positive feedback corruption loop.
+Gamma is amnesic, yes. But she is not completely reset. She has vague, corrupted fragments of memory, and while they're all stated as true in her ghost, who's to say what is her true self and what isn't?
+
+Refer to this for further elaboration on [Constantine and Gamma](../NPCs/Functional NPCs/Constantine and Gamma.md)
+"Doesn't Constantine know about Gamma's past?"
+Yes and no. You can't repair overwritten data but you can overwrite it with cleaner data. 
+My favorite part about this
+is that
+Gamma has no idea
+and never will.
+
+---
+Pre "The Fall"
+
+(When Gamma escaped from FUTURE and Prodigal ‘died’), Gamma did have a proper clone look. The little bun on the side of her head doubled as a headset.
+She was initially trained in both swords fighting and sniping, but, she prefers dual frontline pistols and usually does that.
+Back then, she wasn’t as carefree and psychotic as she is now. She was a bit more mentally stable, but, she was a real brat. Took her work incredibly seriously, a rude stoic meanie. She detested Prodigal initially, but, Prodigal was the only one who would actually tolerate gamma (prodigal didn’t understand gamma’s language, gamma didnt understand prodigal’s language) so she grew incredibly fond of her. And obsessive.
+
+When she crashed into Constantine’s backyard, after he took her apart and put her back together, he didn’t really know what to do with her. I mean, he couldn’t just leave her. In his eyes, she was a human being, and he didn’t have the right to toy with people’s lives (he had morals back then). So he kinda just used her as his personal servant for a while. He felt a bit weird, but, he just kind of had her carry bags and groceries and stuff and she’d just follow him because she didn’t really know what else to do.
+When Gamma crashed into his backyard, she lost all sense of self. She was incredibly depressed and just kinda hung her head low and didn’t speak. It took a long few years for her to reconstruct her personality (thank you, Constantine!). She wasn’t sure if she was an AI made to emulate feeling or if she wa s a true human being. Eventually after maybe 5 years const snapped her out of it and was like “man, who gives a shit, just help me pass this exam!”
+of course it took about two days (post deconstruction) for Constantine to realize that Gamma was, in fact, government property. With  the help of some online friends he’d managed to have her stop sending micro signals.. but.. she still looked the same. 
+He took her on a makeover montage to choose a new head and reconstruct her body, though, she kept her clothing and fighting style the same. Many of her files were scrambled and rebuilt from scratch, and that in particular taught Constantine a lot in cryptography and encryption and lead him to where he is now, which is primarily RAAS (ransomware-as-a-service) in which he can charge extra for deployment and execution of something. MUCH extra.
+
+
+
 ## Relationship with...
 
 Nea
@@ -74,6 +165,10 @@ She’d killed all of the scavengers— and lived to tell the tale. admittedly, 
 
 Gamma’s been working peacefully with [Rita](../NPCs/Various NPCs/Rita.md), [Moanama](../NPCs/Various NPCs/Moanama.md), and the other [Fixers](../NPCs/Functional NPCs/Fixers.md) peacefully ever since.
 
+- Gamma drinks crude oil and gasoline despite the fact she can manually insert it into her fuel cavity. She just prefers to drink it
+> Honey cakes call her a freak which is saying a lot coming from Honey 
+
+
 # Items
 
 **The Comet**
@@ -81,6 +176,23 @@ Gamma’s been working peacefully with [Rita](../NPCs/Various NPCs/Rita.md), [Mo
 
 **Metallic Fists of Unknown Origin**
 > She has no idea where they came from or why she has them, but they’re her strongest (and only) means of defense. With strong electricity conducting properties and a small gun in each, it serves as a lightweight yet heavy hitting weapon.
+
+**Six Guns**
+> gamma has 6 guns. She’s lovingly named them 1, 2, 3, 4, 5, and 6. However, they don’t have set names so she just calls them by whatever numbers she wants at her own convenience. 
+> In gameplay she can only wield two at a time. However, after some time, they will burn out and she’ll need to rotate guns. The guns will recharge passively. To fix the issue of ammo, she uses laser guns which means they are prone to overheating.
+> In gameplay there are other guns she can obtain by combining these guns/applying mods (ie combining 3 guns to create a sniper rifle, all 6 guns to create a Gatling gun.. obv just a concept probably wont happen).
+# Hardware
+Gamma has my second favorite weapon mechanic outside of Honeycakes: six guns and electric gloves
+Let's begin with my favorite: six dual guns on her holster. They swing around (metallic balls between the rotating portion and the actual belt itself) and are holstered back in on a springy but durable and light metal. They are lasers (so each gun uses a different crystal and the output result would be a different color) which is cool but causes a lot of overheat. She uses two at once, then once they get too hot, she stops it, holsters, turns her belt, and grabs two more to continue. 
+I sort of imagine them to be self sustaining in which she presses a button at the top, the electrons(?) start bouncing off the mirrors inside, and when she pulls the trigger it creates a small concentrated window for them to flow out. They are then cooled down.
+Microfluidic channels help removeheat and cycling spreads the thermal load
+Her knuckles are liquid cooled and h er hands by itself doesn't channel electricity, i t's by third party gloves. 
+I kind of think of them like high voltage kinetic amplifiers? in which a trigger/punch closure releases stored electrons into a plasma arc around her knuckles.
+As you can imagine this is going to require a lot more maintenance than Honeycakes so she spends most of her time maintaining her guns, hands, and motorcycle
+Gamma is primarily hydraulics based and is also liquid cooled.
+The main piston is in her lower arm, NOT in her hand. There are no pistons in her hand, as it's protected for primarily impact. However, it does power some of her arm and is responsible for the signal to initiate the pistoning.
+The palm of her hand is where this lies. The primary vent is at the heel of her palm. Her fingers also open up to expel heat if needed and to reduce internal moisture.
+
 
 # Gameplay
 

@@ -55,6 +55,9 @@ Since you saved my life, I’ll get you away from your parents, which Constantin
 
 Constantine is actually in horrific debt due to that (he vastly underestimated the cost and kind of got scammed) and is currently evading taxes and running a ‘mechanic shop’ (dark web/blackmail business) to keep himself alive for longer. 
 
+Constantine has 0 cyberware. Mostly because he is an undocumented citizen but also because his family was too poor/the place he lived didn't have access to anything that wasn't local, and it's not like factories are very common in high danger mountainous areas.
+This makes him pretty useful in his field, since that makes him immune to cyber attacks and he's essentially airgapped his physical body. It comes with limitations but it's noting a proxy'd body can't fix. Refer to the clone farm
+
 ## Relationship with…
 
 Relationship with Shenx
@@ -119,6 +122,19 @@ As of about right now, Constantine’s job varies from blackmail, interceptions,
 
 I wouldn’t say Constantine particularly enjoys being a part of the main story. He likes [Shenx](../NPCs/Functional NPCs/Shenx.md), and he likes [Gamma](Gamma.md). And he likes [TLH](../../Locations/TLH.md), but he doesn’t really like.. everything else. He doesn’t want to be involved.
 
+## Dev notes
+Constantine is easily the character with the worst morals in the primary cast. Unironically worse than Shenx
+When he isn't a blubbering submissive bum to Gamma and Honey, he's a ruthless fucking sociopath who cares about nothing but himself. He WILL leave you in the dust and he WILL sell your hardware. He will kill you if he thinks you are going to leak something.
+Constantine is smart. Really smart. He just acts kind of stupid around everyone to keep a facade going so that Gamma really doesn't see what the fuck kind of guy he really is.
+He's the sort of guy that'll get hired to kill a single mom for half price and infect a hospital for a quick buck.
+He's ... really..... not obviously terrible during the first half. But when he's working with Honey or, especially Nea who shares a similar apathetic nihilism, he'll let his colors show.
+Genuinely he does 99% of the good things just for Gamma. Again more explanation if you read up on their relationship. Anyway
+it's really silly that constantine has the worst morals and honeycakes has the best. But honey cakes is a retired war vet and constantine's a malware and hitman broker.
+I may or may not have increased his sociopathic tendencies and nihilistic viewpoint because they were inspired by my pentesting professor.
+Constantine is already in pretty bad debt. But he’s in even worse debt because of his constant hardware destruction. 
+He tries to be careful about. Um.. the … the things he hosts online. But of course that’s quite difficult. So he is often destroying computers and hardware to fully destroy evidence so it isn’t linked to him.
+“Why” I’m too frazzled to fully explain this + long live cybersecurity but um in very short terms this is like
+https://docs.google.com/document/d/10T00GSvmKJ807P2GVDuo7TQDg0EkrVqTXh837gsIeow/edit?tab=t.0
 # Gameplay 
 
 

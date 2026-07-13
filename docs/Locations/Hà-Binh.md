@@ -56,6 +56,34 @@ The bubbles were nothing special. Some clear, semi-permeable membrane they all s
 
 Ngima’s set up on this 70 degree plane, so he’s surprised that anyone still lives here. He’s more so surprised that he’s walking up this goddamn hill with the rain against him. But so were the schoolchildren. So were the salarymen. He was nothing special. The bubbles were held upright by leaking cardboard boxes and old children’s textbooks, obscuring the buildings they sat in front of.”*
 
+If you all recall.. Ngima
+Up in the mountains.. The hometown to Constantine. A smelly mountain which was built up upon mounds of trash and scrap metal. It was home to a long lost tribe, who left a cavern of intricate tunnels and strange statues along with it. They have mostly been covered and filled due to landslides, but particularly daring historians enjoy digging through it.
+
+ Ngima is too far up for any locals to get to/from Sampaguita, which just so happens to be right next to it, so they remain in itself.
+
+Ngima is quite the poor country. Most of its residents live in small houses of scrap metal, which are stacked up on top of each other. Electricity is mostly shared between houses and under a strict curfew. While there are “laws”, the law enforcement isn’t particularly fond of going up and down the hill to Ngima. It’s an extremely religious community known for its very *very* low living standards and lack of almost everything.
+
+Ngima’s denizens usually receive food from either monthly trips to Sampaguita, or from airplanes.
+
+all buildings are on a large, steep hill, almost basically 50-60 degrees. The vendors and houses who live on it support themselves upright using various pieces of metal, scrap, and children’s textbooks. When it rains, the place is basically off limits because it turns into a  glorified water slide.
+
+If you were to look up at the sky in Ngima, you’d see the desolate, grey sky, the wires, and then a cicada would probably fly into your mouth, so don’t do that. It’s a very gloomy place.
+Constantine lived near the top of Ngima so he wasn’t very socialized.
+
+When Honeycakes found out that Constantine lived in Ngima, she considered leaving Gamma and Nea
+“*The sky’s bout as blue as an old, rotting car. It’s got some tints of you imagine hard enough, but the exterior’s too much brown and grey to see much of anything. 
+
+Little pebbles of sticky, green slush trickle down from the sky, pittering and pattering on the rusty roofing’s of Sampaguita’s houses.he air is thick with the stench of iron and sour lemons. The fog blankets down on Ngima like a thick coating of glue. Despite it, there’s still the familiar shouts of marketkeep within their enclosed bubbles. 
+
+The bubbles were nothing special. Some clear, semi-permeable membrane they all set up. Allows in large life forms, but no bugs and rain. The steam from the meat hovers at the top, obscuring the view of the vendors. 
+
+Ngima’s set up on this 70 degree plane, so he’s surprised that anyone still lives here. He’s more so surprised that he’s walking up this goddamn hill with the rain against him. But so were the schoolchildren. So were the salarymen. He was nothing special. The bubbles were held upright by leaking cardboard boxes and old children’s textbooks, obscuring the buildings they sat in front of.”*
+
+
+
+Anyway, since Constantine grew up here and he's a ransomware group leader, I imagine that some folks in the surrounding area.. because they don't have great internet, have their own localized internet and wires that have been built up and maintained by a very dedicated community. And is, of course, now used for illegal purposes like airlocked communication. But I don't know how realistic that is, lol. I'm sure they can get wires up to Ngmia and I am SURE the residents are bored enough to build their own wiring and localized internet and datacenter somewhere
+most of the civilians live outside of tunnels (no one lives inside of them lol. And no one really knows what they're there for anyway). This is just a small group of INCREDIBLY dedicated and bored nerds that have worked up over decades to build their own intranet. Ngima has its own self sustaining economy. So natural farms exist still, children still recieve education as mandated by the government but they are either sent away or a single device is used for like 20 kids in a classroom (someones kitchen). But most of the people there are just trying to get their food to grow. A big job in Ngimma is to be a "shaman", which was a misreading of "Sherpa". the Shamans carry large bags of.. whatever people order and drag them all the way up the hill. The second biggest job is to be an independent farmer or cook. Kids often maintain their own bushes of fruits and build large bug traps to make money for their family while they go to school.
+... I will leave you with this to draw the ties between Constantine's childhood environment and his current relationship with Gamma.
 ### Gouha
 
 *The not-so-smelly area.*

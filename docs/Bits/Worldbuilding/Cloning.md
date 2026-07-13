@@ -52,3 +52,45 @@ Over time, she got more busy with politics and got [Huangzhi](../../Characters/B
 
 8. Clones awaken at one time, though one team is assigned to one clone. Usually only one clone of each batch survives.
 
+# Additional Reading
+
+
+        - since they were ‘created’ after the world had far long ended, they had to fend for themselves and evolved into a primarily fighting-type species.
+
+            - Being evolved from a species which has long followed humans since the creation, they have evolved into semi-humanoids but not entirely human. They do refer to themselves as _human_, though.
+
+    - Stickfigures, or Sticks, all come with the unique ability to harness magic (the very magic which killed the human race, they’ve built resilliance over time) and are extremely durable. They recover easily, they’re _made_to fight.
+
+        - Those who posess physical disabilities to fight, however, work in other jobs like office work. It’s more common than you might think, especially now.
+
+            - They are all generally pretty nice to those with disabilities. They don’t call it a _disability_, it’s more of a “trait”.
+
+                - “Your trait is the role of a healer, fascinating!” “Wow, you’re practically made for this! (receptionist)”.
+
+                    - some stickfigures with asthma have to have a permanent bubble around them. Conviniently, there’s a company which develops these at birth. They can go through it, it’s semi-permeable, like a cell membrane, and it’s developed with that persons umbilical cord.
+
+    - Skin color changes based on environment. Colder colors are more common in cooler environments and warm.. you know.
+
+        - Hotter environments turn your skin into a more black/greyer tone than before, while cooler ones simply pale it down. Humidity gives you more depth while dryness just makes you super pale.
+
+            - skin color traits are incomplete dominant genes. However codominance does happen, but very rarely,
+
+
+# GI Clones
+Both being clones of the same generation, Honeycakes and Gamma share a very similar skeleton build. The only things that differ are physical appearances (honey has a more elephant-like appearance, with large foam feet and reinforced bones; Gamma has a more ‘spring-like’, agile and elastic bone structure but the general software is the exact same) and what they’ve done individually (Honey’s transition from the war to a sedentary life/Constantine’s ‘reinventions’) 
+
+Pyrrhon is, and has been since her first inception, attempting to give the world a single language, solely for convenience. However due to religious treaties (referenced earlier), this has not fully succeeded. The vast majority of the world, and especially younger folks, only speak one common language. 
+There are dialects, though, (Cantonese/mandarin; Tagalog/illocano), and while language models do exist, they are not common, especially for the rarer dialects. 
+Clones come pre-installed with a local database (up to gen 3; gen4+ switched to a hybrid local/cloud deployment model in which volatile information was stored locally in RAM and other things were stored in cloud to prevent third party tampering) which is why Gamma and Honeycakes have little to no issue translating for everyone. And even if you do speak a different language, every OS comes preinstalled with an artificial intelligence translation model, in which, no matter what the language, translation will be attempted.
+This has some unfortunate effects when applied to local dialects, which is why local dialects are commonly used in dark web and underworld forums and communication, as it is sort of a disruptor to artificial intelligence scanners. And even if an all natural entity were to look at it, it’d just be gibberish. Local dialects are not common and are not often taught, though, so there is quite a high skill floor to even enter, which drives away lots of new sellers but make Shenx’s life much much easier.
+Given that both Gamma and Honeycakes are, in fact, not connected to the government cloud model, they need to keep their database stored locally. But that’s impossible, since it’s so large. So often times it’s half stored with Gamma, and half stored with Honeycakes. They, and a few other war veterans, act as ‘seeders’ in the local network (but it’s often just honey and gamma. Some parts of the database are also carried by Constantine as a backup: vital things like health support, language, culture, survival skills, etc)
+
+Gamma and Honeycakes don’t know any local dialects, since their AI translation module has a bit of a headache attempting a translation since it’s pulling from its own database of the base language and outputting gibberish (as it was prompted to never ‘not know’: it will hallucinate responses. This usually isn’t an issue since all major languages have been thoroughly documented). 
+When selecting Constantine as your main character, you’ll be able to view a lot of phone forums, listen in on a lot of conversations in his hometown and the surrounding areas, and so on. 
+With Nea, when on the opposite side of the world, you can understand all of the Monks, tribespeople, text transcripts, and so on.
+
+Honey and Gamma only have access to most major models. However they can auto translate plenty of other things, like binary and other encoded languages since they have those stored locally.
+
+They both carry core (haha) critical data but they each carry unique fragments and specializations. Together they form a complete dataset.
+
+Memory is not permanent, as seen by the entirety of what Constantine does. Old data often gets overwritten and corrupted.
