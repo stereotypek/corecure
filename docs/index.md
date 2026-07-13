@@ -1,11 +1,14 @@
 **NEWEST UPDATES**
 
-We've been updated!
+ We've been updated!
+ 07/13/26: Jeez.. it's been a long time.
+ Republished site + updated from discord 
+ todo: imgs
 
 2/9/26: newlines fixed, broken links fixed, images fixed, etc.
 Some links remain broken... but that's okay, isn't it?
 
-test updatw
+
 --- 
 God is dead.
 
