@@ -125,6 +125,60 @@ I wouldn’t say Constantine particularly enjoys being a part of the main story.
 
 
 **Signature Ability**: *Technician*
+> 
+
+> 
+	
+
+
+**Extended Ability**: Wormded Ability: WORM
+> 	When pressing special attack while shooting, deploy a digital worm into an enemy’s neural system.
+
+> 	Enemies afflicted with WORM suffer
+
+> 	- -25% movement speed
+
+> 	- -25% attack speed
+
+> 	- +5% incoming damage  
+
+	    (Note: The movement and attack speed debuffs do not stack.)
+
+	If a WORM-afflicted enemy is killed or leaves the screen, the WORM transfers to the enemy with the highest ATK currently on-field. If multiple enemies share the highest ATK, it targets the nearest one to the dead enemy.
+
+	If no valid enemies remain, the WORM returns to Constantine.
+
+	WORMs last 15 seconds on a host. You may deploy a maximum of two.
+
+	If both worms infect the same enemy, that enemy takes +15% extra damage, but ATK/MOV speed debuffs remain at -25%.
+
+
+**Role**: Long Range Heavy Hitter
+	
+
+**Base**: Snuffr
+>
+
+>
+
+**Shift**: Thick Skin
+>
+
+**ULTIMATE**
+
+
+
+
+
+
+“Patch notes” 
+
+remomved 2/18/26 because it sucks + too much clutter
+ 
+ 
+
+
+**Signature Ability**: *Technician*
 > 	All items that Constantine uses get a boost to whatever their effect is (ie damage, debuff rate, healing percentage, buff duration, etc).
 
 > 	At his final skill, Constantine is granted a 20% chance of ‘revivability’ Each time he uses an item. This basically means that whenever he uses an item, there’s a 20% chance it will reactivate at 50% of its original power, which then makes it to be 150% + whatever his bonus is.
@@ -170,11 +224,6 @@ I wouldn’t say Constantine particularly enjoys being a part of the main story.
 **ULTIMATE**
 
 
-
-
-
-
-“Patch notes” 
 
 Old ability: 
 

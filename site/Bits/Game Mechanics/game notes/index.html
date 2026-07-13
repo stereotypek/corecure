@@ -118,7 +118,7 @@
 </li>
             
 <li>
-    <a href="../../Worldbuilding/Cloning/" class="dropdown-item">The Prodigal CORE</a>
+    <a href="../../Worldbuilding/Cloning/" class="dropdown-item">Cloning</a>
 </li>
             
 <li>
@@ -229,6 +229,14 @@
 </li>
             
 <li>
+    <a href="../../../Characters/NPCs/Lore%20Characters/Dinh/" class="dropdown-item">Dinh</a>
+</li>
+            
+<li>
+    <a href="../../../Characters/NPCs/Lore%20Characters/Kei/" class="dropdown-item">Kei</a>
+</li>
+            
+<li>
     <a href="../../../Characters/NPCs/Lore%20Characters/Khan/" class="dropdown-item">Khan</a>
 </li>
             
@@ -247,7 +255,23 @@
     <ul class="dropdown-menu">
             
 <li>
+    <a href="../../../Characters/NPCs/Other%20clones/Alpha/" class="dropdown-item">Alpha</a>
+</li>
+            
+<li>
+    <a href="../../../Characters/NPCs/Other%20clones/Epsilon/" class="dropdown-item">Epsilon</a>
+</li>
+            
+<li>
     <a href="../../../Characters/NPCs/Other%20clones/Muse/" class="dropdown-item">Muse</a>
+</li>
+            
+<li>
+    <a href="../../../Characters/NPCs/Other%20clones/Phi/" class="dropdown-item">Phi</a>
+</li>
+            
+<li>
+    <a href="../../../Characters/NPCs/Other%20clones/Pi/" class="dropdown-item">Pi</a>
 </li>
     </ul>
   </li>
@@ -274,6 +298,10 @@
             
 <li>
     <a href="../../../Characters/NPCs/Various%20NPCs/Kyo/" class="dropdown-item">Kyo</a>
+</li>
+            
+<li>
+    <a href="../../../Characters/NPCs/Various%20NPCs/Moanama/" class="dropdown-item">Moanama</a>
 </li>
             
 <li>
@@ -418,62 +446,79 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
+<hr />
+<hr />
 <ul>
 <li>using a state machine.</li>
 </ul>
-<p>The player obj will just be one thing. Gamma, Nea, Honey, and Constantine will all be states, and the shift will be another state
-vG= variable gamma just so we are clear this is an ariable
-Player obj is ALWAYS in state G, N, H or C.
-By default:</p>
+<p>The player obj will just be one thing. Gamma, Nea, Honey, and Constantine will all be states, and the shift will be another state</p>
+<p>vG= variable gamma just so we are clear this is an ariable</p>
+<p>Player obj is ALWAYS in state G, N, H or C.</p>
+<p>By default:</p>
 <blockquote>
-<p>{
-  Default 
-  set var vG = true
-}</p>
+<p>{</p>
+<p>Default </p>
+<p>set var vG = true</p>
+<p>}</p>
 </blockquote>
 <p>Ex:</p>
 <blockquote>
-<p>if key_1 pressed, state = G{
-  If state = G{
-      Set var vG = true 
-          # this is for dialogue purposes and determining who is first in party
-          }
-  # Code for her stats ie
-    var spd = 10;
-    # etc
-    }
-    If key_2 pressed, state = N{
-        set var vN = true;
-        # stats here
-    }</p>
+<p>if key_1 pressed, state = G{</p>
+<p>If state = G{</p>
+<pre><code>  Set var vG = true
+
+      # this is for dialogue purposes and determining who is first in party
+
+      }
+</code></pre>
+<p># Code for her stats ie</p>
 </blockquote>
+<pre><code>var spd = 10;
+
+# etc
+
+}
+
+If key_2 pressed, state = N{
+
+    set var vN = true;
+
+    # stats here
+
+}
+</code></pre>
 <p>Make sure all variables start with ‘v(char symbol)’ to differentiate it from the state. (Ie if G = true…)</p>
 <p>Also </p>
 <blockquote>
-<p>if state inair{
-  # code to preform the air attacks
-}
-If state dash {
-  # dash attack code
-  }</p>
+<p>if state inair{</p>
+<p># code to preform the air attacks</p>
+<p>}</p>
+<p>If state dash {</p>
+<p># dash attack code</p>
+<p>}</p>
 </blockquote>
 <p>Another state. SHIFT.</p>
-<p>Var for shift is s(char)
-IF key tab pressed, enter shift{</p>
+<p>Var for shift is s(char)</p>
+<p>IF key tab pressed, enter shift{</p>
 <blockquote>
 <h1 id="enter-shift-mode-here">enter shift mode here</h1>
+</blockquote>
 <pre><code>If state = sG, {
 </code></pre>
-<p># check character
-  # if player = Gamma then
-      code for Gamma’s state here
-      Gun mechanic goes here
-  }</p>
-<p>if state = sN{
-  # if player = Nea then
-      Code of Nea’s shift state
-  }
-}</p>
+<blockquote>
+<p># check character</p>
+<p># if player = Gamma then</p>
+<pre><code>  code for Gamma’s state here
+
+  Gun mechanic goes here
+</code></pre>
+<p>}</p>
+<p>if state = sN{</p>
+<p># if player = Nea then</p>
+<pre><code>  Code of Nea’s shift state
+</code></pre>
+<p>}</p>
+<p>}</p>
 </blockquote>
 <p>Etc etc.</p></div>
             </div>

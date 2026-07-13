@@ -1,8 +1,6 @@
----
 
----
 
-*”It’s just you, me, and the end of the world, Nea!”*
+”It’s just you, me, and the end of the world, Nea!”
 ## Personality
 
 Gamma’s this sorta hyperactive, one extreme to the next, all or nothing sort of thinker. Not so insane as everyone else, surprisingly, and has the most amount of compassion for other people than anyone else. On the outside, like at work, she’s this crazy trigger happy mercenary who kills as she pleases. She completely disregards her own health and defenses, which make a lot of people think she is suicidal. She takes great joy in innards in general, but she’s at least very good at her job. 
@@ -43,9 +41,18 @@ There’s something still that itches her though, and it’s the strange, black,
 
 Nea
 
-> ""
+> "You're too fucked up for me," they say simeltaneously.
 
-[Constantine and Gamma](../NPCs/Functional NPCs/Constantine and Gamma.md)
+> For when Nea sees
+
+
+[Constantine and Gamma](../NPCs/Functional NPCs/Constantine and Gamma.md)'s relationship includes plenty of spoilers for things unreleased yet for the game. And things you are intended to figure out for yourself.
+
+
+Honeycakes
+
+> "Why do you run away from me so much?"
+
 
 ## Misc
 
